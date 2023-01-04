@@ -78,6 +78,15 @@ const Navbar = () => {
             <li className='ml-10 text-sm uppercase hover:border-b'>
               <Link href='/Submission'>Submission</Link>
             </li>
+            <li className='ml-10 text-sm uppercase hover:border-b'>
+              <Link href='/Registeration'>Registration</Link>
+            </li>
+            <li className='ml-10 text-sm uppercase hover:border-b'>
+              <Link href='/Venue'>Venue</Link>
+            </li>
+            <li className='ml-10 text-sm uppercase hover:border-b'>
+              <Link href='/Contact'>Contact Us</Link>
+            </li>
           </ul>
           {/* Hamburger Icon */}
           <div
@@ -118,9 +127,7 @@ const Navbar = () => {
               </div>
             </div>
             <div className='border-b border-gray-300 my-4'>
-              <p className='w-[85%] md:w-[90%] py-4'>
-                Let&#39;s build something legendary together
-              </p>
+             
             </div>
           </div>
           <div className='py-4 flex flex-col'>
@@ -130,73 +137,48 @@ const Navbar = () => {
                   Home
                 </li>
               </Link>
-              <Link href='/#about'>
+              <Link href='/conference'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
-                  About
+                  About Conference
                 </li>
               </Link>
-              <Link href='/skills'>
+              <Link href='/committie'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
-                  Skills
+                  Committee
                 </li>
               </Link>
-              <Link href='/projects'>
+              <Link href='/Callforpapers'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
-                  Projects
+                  Call For Papers
                 </li>
               </Link>
               <Link href='/resume'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
-                  Resume
+                  Keynote
                 </li>
               </Link>
-              <Link href='/#contact'>
+              <Link href='/Submission'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm'>
+                  Submission
+                </li>
+              </Link>
+              <Link href='/Registeration'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm'>
+                  Registration
+                </li>
+              </Link>
+              <Link href='/Venue'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm'>
+                  Venue
+                </li>
+              </Link>
+              <Link href='/Contact'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Contact
                 </li>
               </Link>
             </ul>
-            <div className='pt-40'>
-              <p className='uppercase tracking-widest text-[#5651e5]'>
-                Let&#39;s Connect
-              </p>
-              <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
-                <a
-                  href='https://www.linkedin.com/in/divyesh-jain-145407231/'
-                  target='_blank'
-                  rel='noreferrer'
-                >
-                  <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
-                    <FaLinkedinIn />
-                  </div>
-                </a>
-                <a
-                  href='https://github.com/divyesh123-jain'
-                  target='_blank'
-                  rel='noreferrer'
-                >
-                  <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
-                    <FaGithub />
-                  </div>
-                </a>
-                <Link href='/#contact'>
-                  <div
-                    onClick={() => setNav(!nav)}
-                    className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'
-                  >
-                    <AiOutlineMail />
-                  </div>
-                </Link>
-                <Link href='/resume'>
-                  <div
-                    onClick={() => setNav(!nav)}
-                    className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'
-                  >
-                    <BsFillPersonLinesFill />
-                  </div>
-                </Link>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>

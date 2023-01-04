@@ -195,7 +195,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Advisory Board Committie</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400">
-              Dr. C.P.S Prakash, Former Principal, DSCE <br />
+              Dr C.P.S Prakash, Former Principal, DSCE <br />
 Dr A R Aswatha,Professor,Head,Dept of Medical Electronics <br />
 Dr Xiao-Zhi Gao, University of Eastern Finland, Finland <br />
 Dr Geetha Prakash, Global Program Officer, Tooople Technologies Pte Ltd, Singapore <br />
@@ -205,18 +205,18 @@ Mr Padmanaban Kalyanaraman, CEG - Intel  <br />
 Dr Bhanu Prashanth Professor  Department of Medical Electronics ,BMS College of Engineering, Bangalore <br />
 Dr Swaminathan ,Faculty ,Dept of EEE,IIT Indore <br />
 Mr Paramananda Jena , Scientist , LRDE DRDO, Bangalore <br />
-Dr. NC Shivaprakash , Professor,Department of Instrumentation,IISc Bangalore  <br />
+Dr NC Shivaprakash , Professor,Department of Instrumentation,IISc Bangalore  <br />
 Mrs Jailaxmi,Scientist,LRDE,Bangalore <br /> 
-Dr. G. S Mani, Ex Director, Dfence Institute of Advanced Technology, Pune <br />
-Dr. Sajal Das, Professor, Missouri University of Science and Technology, US <br />
-Dr. Y. M. Jayaraj,The Chief Advisor to Hon’ble Chancellor <br />
-Dr. D.Y. Patil Vidyapeeth <br />
-Dr. Y. M. Jayaraj, Vice Chancellor, Pravara Institute of Medical Sciences.<br />
+Dr G. S Mani, Ex Director, Dfence Institute of Advanced Technology, Pune <br />
+Dr Sajal Das, Professor, Missouri University of Science and Technology, US <br />
+Dr Y. M. Jayaraj,The Chief Advisor to Hon’ble Chancellor <br />
+Dr D.Y. Patil Vidyapeeth <br />
+
 Dr. Sajal Das, Professor and Daniel St. Clair Endowed Chair
 Missouri University of Science and Technology
 Rolla, <br />
-Dr. D. P Agarwal, ex Chairman of the Union Public Service Commission of India.<br />
-Dr. R. K. Jain, Director, JSPM, RSCOE, Pune<br />
+Dr D. P Agarwal, ex Chairman of the Union Public Service Commission of India.<br />
+Dr R. K. Jain, Director, JSPM, RSCOE, Pune<br />
               </p>
           </div>
 
@@ -230,7 +230,7 @@ Dr. R. K. Jain, Director, JSPM, RSCOE, Pune<br />
               Dr Smitha Sasi,Associate Professor,DSCE  <br /> 
               Dr Srividya B V,Associate Professor,DSCE<br />
 
-Vinod B Durdi,Associate Professor,DSCE <br />
+Dr Vinod B Durdi,Associate Professor,DSCE <br />
 Dr Ganashree T S,Associate Professor,DSCE<br />
 Dr Devaraju R,Associate Professor,DSCE <br />           
 </p>
@@ -279,7 +279,7 @@ Mr Sandeep K V,Assistant Professor,DSCE<br />
               Dr Srividya B V,Associate Professor,DSCE <br />
             Dr Smitha Sasi,Associate Professor,DSCE <br />
 Dr Devaraju,Associate Professor,DSCE <br />
-Mrs Rajeshwari,Assistant  Professor,DSCE<br />
+Mrs PRajeshwari,Assistant  Professor,DSCE<br />
 Mr Saravana Kumar,Assistant Professor,DSCE <br />
 Mrs Deepthi Raj,Assistant Professor,DSCE <br />
               </p>
