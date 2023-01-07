@@ -40,7 +40,7 @@ const conference = () => {
 <div className='flex-1'>
 <div>
 <h1 className='mx-32 md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>
-<p className='text-center text-xl '>The International Conference on Advances in Engineering and Technology for Intelligent systems (ICAETIS-2023), is scheduled to take place on the 16th - 18th May 2023, in the “Silicon Valley of India”, “The IT capital of India”, Bangalore, Karnataka, India is an international platform for all sorts of researchers and scholars, practitioners, academicians, students and scientists, to discuss interdisciplinary research and training in Engineering and Technology. This conference is also intended to serve as a comprehensive platform for researchers, decision-makers, educators, practitioners, and others, to present and discuss the latest discoveries, drifts and interests, as well as practical difficulties and resolutions in sectors involving Intelligent Systems.
+<p className='text-xl '>The International Conference on Advances in Engineering and Technology for Intelligent systems (ICAETIS-2023), is scheduled to take place on the 16th - 18th May 2023, in the “Silicon Valley of India”, “The IT capital of India”, Bangalore, Karnataka, India is an international platform for all sorts of researchers and scholars, practitioners, academicians, students and scientists, to discuss interdisciplinary research and training in Engineering and Technology. This conference is also intended to serve as a comprehensive platform for researchers, decision-makers, educators, practitioners, and others, to present and discuss the latest discoveries, drifts and interests, as well as practical difficulties and resolutions in sectors involving Intelligent Systems.
 </p>
 
 </h1>
@@ -60,7 +60,7 @@ const conference = () => {
       <div className='flex-1'>
 <div>
 <h1 className='mx-32 md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>
-<p className='text-center text-xl '>The primary objective of International Conference on Advances in Engineering and Technology for Intelligent systems (ICAETIS-2023) is to bring together researchers, scientists, and experts from universities, businesses, institutions, communities, agencies, associations and to give them a special platform for exchanging ideas as well as the most recent advancements in engineering and technology at an International level.  It also aims to give researchers, students, and delegates a forum to communicate and share their expertise, address issues related to technology utilization. This event will also serve as an excellent international forum for exchanging know-hows and results on recent challenges in engineering and technology leading to the current trends in Intelligent Systems with its necessitated visibility in all domains of societal relevance such as UAVs, Unmanned vehicles, Health Care, traffic management, latest telecommunication portals, IOT  and Industry 4.0 to name a few. 
+<p className=' text-xl '>The primary objective of International Conference on Advances in Engineering and Technology for Intelligent systems (ICAETIS-2023) is to bring together researchers, scientists, and experts from universities, businesses, institutions, communities, agencies, associations and to give them a special platform for exchanging ideas as well as the most recent advancements in engineering and technology at an International level.  It also aims to give researchers, students, and delegates a forum to communicate and share their expertise, address issues related to technology utilization. This event will also serve as an excellent international forum for exchanging know-hows and results on recent challenges in engineering and technology leading to the current trends in Intelligent Systems with its necessitated visibility in all domains of societal relevance such as UAVs, Unmanned vehicles, Health Care, traffic management, latest telecommunication portals, IOT  and Industry 4.0 to name a few. 
 This Conference focuses on bringing together people who share a common discipline from different parts of the world, bringing different forms of ideas which build into something greater.
 
 </p>
@@ -98,12 +98,12 @@ This Conference focuses on bringing together people who share a common disciplin
 <div className='flex-1'>
 <div>
 <h1 className='mx-32 md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>
-<ul className='text-center text-xl '>
-<li className=''>1.Maximize learning by facilitating discussions and learning sessions by using various presentation formats: in-person presentations, poster presentations, virtual presentations, workshops. This is a motivational factor as one aspires to overcome fears and achieve one’s dreams.</li>
-<li className=''>2.Networking and idea-sharing amongst faculty/research scholars/students and other participants in the similar field of studies all around the world to share technological breakthroughs. Enable both formal and informal opportunities for networking for future collaborations</li>
-<li className=''>3.Promotion of research presented at the event reaches as many people as possible through open-access publishing throughout the network and various marketing channels</li>
-<li className=''>4.The personal or professional development of academicians,  as it  is vital to find out whats new in ones own  field of study for progressing in an academic discipline</li>
-<li className=''>5.Socializing leading  to acquiring  different views and dispositions, edifies the way of thinking in the defined field of study and capturing some nuances on different aspects and solutions which exist on the same issues.  </li>
+<ul className=' text-xl '>
+<li className='pt-2'>1.Maximize learning by facilitating discussions and learning sessions by using various presentation formats: in-person presentations, poster presentations, virtual presentations, workshops. This is a motivational factor as one aspires to overcome fears and achieve one’s dreams.</li>
+<li className='pt-2'>2.Networking and idea-sharing amongst faculty/research scholars/students and other participants in the similar field of studies all around the world to share technological breakthroughs. Enable both formal and informal opportunities for networking for future collaborations</li>
+<li className='pt-2'>3.Promotion of research presented at the event reaches as many people as possible through open-access publishing throughout the network and various marketing channels</li>
+<li className='pt-2'>4.The personal or professional development of academicians,  as it  is vital to find out whats new in ones own  field of study for progressing in an academic discipline</li>
+<li className='pt-2'>5.Socializing leading  to acquiring  different views and dispositions, edifies the way of thinking in the defined field of study and capturing some nuances on different aspects and solutions which exist on the same issues.  </li>
 
 </ul>
 

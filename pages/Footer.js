@@ -34,9 +34,9 @@ const Footer = () => {
         <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
         <div>
                 <p className='text-3xl text-white pt-4 text-center'>Technical Partners</p>
-                <div className='relative flex justify-center h-64 m-8 overflow-hidden  rounded-lg'>
-                <Image className='rounded-full w-[30vh] mx-6 ' src={logo1} alt="" />
-                <Image className='rounded-full w-[30vh] mx-6' src={logo2} alt="" />
+                <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
+                <Image className='rounded-full w-[20vh] mx-3 ' src={logo1} alt="" />
+                <Image className='rounded-full w-[20vh] mx-3' src={logo2} alt="" />
                 </div>
                
                
