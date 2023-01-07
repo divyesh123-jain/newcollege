@@ -2,9 +2,10 @@ import React from 'react';
 import Image from 'next/image';
 import dsi from '../Images/dsi.png'
 import re from '../Images/re.png'
-import conference from '../Images/conference.png'
-import logo1 from '../Images/logo1.png';
-import logo2 from '../Images/logo2.jpg';
+import conference from '../Images/conference.jpeg'
+import logo3 from '../Images/logo3.jpeg';
+import logo4 from '../Images/logo4.jpeg';
+import logo5 from '../Images/logo5.jpeg';
 
 const about = () => {
   return (
@@ -47,7 +48,7 @@ const about = () => {
         <p class=" text-white text-center sm:text-4xl">Dayananda Sagar College Of Engineering</p>
         <p className='text-center mt-5 pb-4 text-white'>Presents</p>
         <div class="flex justify-center gap-32 pt-2 pb-3 align items-center">
-                <Image className='rounded-full  mx-96 ' src={conference} alt="" />
+                <Image className='rounded-lg  mx-96 ' src={conference} alt="" />
 
           
          
@@ -65,15 +66,16 @@ const about = () => {
                 
           </div>
 
-              {/* <div>
-                <p className='text-3xl text-white pt-4'>In Association With</p>
+               <div>
+               
                 <div className='relative flex justify-center h-64 m-8 overflow-hidden  rounded-lg'>
-                <Image className='rounded-full w-[30vh] mx-6 ' src={logo1} alt="" />
-                <Image className='rounded-full w-[30vh] mx-6' src={logo2} alt="" />
+                <Image className='rounded-3xl w-[30vh] mx-6 ' src={logo3} alt="" />
+                <Image className='rounded-3xl w-[30vh] mx-6' src={logo4} alt="" />
+                <Image className='rounded-3xl w-[30vh] mx-6' src={logo5} alt="" />
                 </div>
                
                
-              </div> */}
+              </div>
 
                
             </div>

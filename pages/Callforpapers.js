@@ -1,4 +1,8 @@
 import React from 'react';
+import Image from 'next/image';
+import logo3 from '../Images/logo3.jpeg';
+import logo4 from '../Images/logo4.jpeg';
+import logo5 from '../Images/logo5.jpeg';
 
 const Callforpapers = () => {
   return (<>
@@ -7,6 +11,20 @@ const Callforpapers = () => {
     Call For Papers
       
     </div>
+    <p className='text-3xl pt-3 text-center text-white'>Papers that are submitted will be subject to plagiarism checks and blind reviews. Selected papers from the conference will be published by Springer as a proceedings book volume.<br />
+All accepted papers under this conference will be published in SCOPUS Indexed Journals/Web of Science /UGC Care II<br />
+*Upon Selection of the papers Article Processing Charges will be applicable for publishing papers in in SCOPUS Indexed Journals/Web of Science /UGC Care II<br /></p>
+
+<div>
+               
+               <div className='relative flex justify-center h-64 m-8 overflow-hidden  rounded-lg'>
+               <Image className='rounded-lg w-[30vh] mx-6 ' src={logo3} alt="" />
+               <Image className='rounded-lg w-[30vh] mx-6' src={logo4} alt="" />
+               <Image className='rounded-lg w-[30vh] mx-6' src={logo5} alt="" />
+               </div>
+              
+              
+             </div>
 <div className='mx-8 pt-12 grid  grid-cols-1 sm:grid-cols-1 lg:grid-cols-3 gap-28'>
     <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[40px] py-[24px] cursor-grab'>
  

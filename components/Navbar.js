@@ -2,6 +2,8 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React, { useState, useEffect } from 'react';
 import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
+import dsi from '../Images/dsi.png'
+import re from '../Images/re.png'
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
  import { useRouter } from 'next/router';
@@ -55,6 +57,11 @@ const Navbar = () => {
       }
     >
       <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16'>
+      <div className='flex mx-5'>
+        <Image src={dsi} className="rounded-full w-[10vh]" alt="" />
+        <Image src={re} className="rounded-full w-[10vh] mx-5" alt="" />
+        
+      </div>
         <Link href='/'>
           
         </Link>
