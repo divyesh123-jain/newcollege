@@ -68,10 +68,11 @@ const about = () => {
 
                <div>
                
-                <div className='relative flex justify-center h-64 m-8 overflow-hidden  rounded-lg'>
-                <Image className='rounded-3xl w-[30vh] mx-6 ' src={logo3} alt="" />
+                <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
+                <img  className='rounded-full' src="https://imgs.search.brave.com/OvXjrHMjCIRYiTtMuC3MiI09Y1PHth8r-e6Jygn_jJo/rs:fit:300:211:1/g:ce/aHR0cDovL3MzLmFt/YXpvbmF3cy5jb20v/bGliYXBwcy9jdXN0/b21lcnMvNTgvaW1h/Z2VzL1Njb3B1c1do/aXRlX1dlYkJ1dHRv/bi5naWY.gif" alt='' />
                 <Image className='rounded-3xl w-[30vh] mx-6' src={logo4} alt="" />
-                <Image className='rounded-3xl w-[30vh] mx-6' src={logo5} alt="" />
+                <img  className='rounded-full w-[20vh]' src="https://imgs.search.brave.com/ILEEqeGjun7QFFTHzvFd0t5Qt-mifW3NmD0s3O4_Klw/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/YWFjLmFjLmlsL2xp/YnJhcnkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvd2Vi/X29mX3NjaWVuY2Vf/bG9nby5naWY.gif" alt='' />
+
                 </div>
                
                

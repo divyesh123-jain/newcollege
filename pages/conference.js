@@ -2,10 +2,10 @@ import React from 'react';
 
 const conference = () => {
   return (<>
-<div className='bg-gray-800  text-white pt-20'>
+<div className='bg-gray-300  text-black pt-20'>
 <div>
-    <p className='text-2xl text-center text-[#00FF00]'>Note:- Mode of Conference conduction wiil be in Hybrid Mode</p>
-    <p className= 'text-2xl text-center text-[#00FF00]'>Conference Date : 16th,17th and 18th May 2023</p>
+    <p className='text-2xl text-center font-bold text-[black]'>Note:- Mode of Conference conduction wiil be in Hybrid Mode</p>
+    <p className= 'text-2xl text-center font-bold text-[black]'>Conference Date : 16th,17th and 18th May 2023</p>
 </div>
 
 <h1 className='text-3xl text-center text-[red] pt-5'>Important Dates</h1>

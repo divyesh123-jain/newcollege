@@ -17,10 +17,10 @@ All accepted papers under this conference will be published in SCOPUS Indexed Jo
 
 <div>
                
-               <div className='relative flex justify-center h-64 m-8 overflow-hidden  rounded-lg'>
-               <Image className='rounded-lg w-[30vh] mx-6 ' src={logo3} alt="" />
-               <Image className='rounded-lg w-[30vh] mx-6' src={logo4} alt="" />
-               <Image className='rounded-lg w-[30vh] mx-6' src={logo5} alt="" />
+               <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
+               <Image className='rounded-3xl w-[30vh] mx-6 ' src={logo3} alt="" />
+               <Image className='rounded-3xl w-[30vh] mx-6' src={logo4} alt="" />
+               <Image className='rounded-3xl w-[30vh] mx-6' src={logo5} alt="" />
                </div>
               
               
