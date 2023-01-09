@@ -80,7 +80,7 @@ const Navbar = () => {
               <Link href='/Callforpapers'>Call For Papers</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/resume'>Keynote</Link>
+              <Link href='/Keynote'>Keynote</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
               <Link href='/Submission'>Submission</Link>

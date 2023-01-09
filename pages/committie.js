@@ -22,7 +22,7 @@ const committie = () => {
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white"> Chairman</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400"> Dr.D Hemachandra Sagar,<br />
+              <p class="text-gray-500 dark:text-gray-400 text-xl"> Dr.D Hemachandra Sagar,<br />
               Dayananda Sagar Instutions,Bangalore</p>
           </div>
           <div>
@@ -31,7 +31,7 @@ const committie = () => {
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Vice-Chairman</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">Dr.D Premachandra Sagar,<br />
+              <p class="text-gray-500 dark:text-gray-400 text-xl">Dr.D Premachandra Sagar,<br />
               Dayananda Sagar Instutions,Bangalore
               </p>
           </div>
@@ -55,7 +55,7 @@ const committie = () => {
               <h3 class="mb-2 text-xl font-bold dark:text-white">Secretary</h3>
 
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Mr.Galiswamy , <br />
               Secretary, <br />
               Dayananda Sagar College of Engineering,  <br />
@@ -69,7 +69,7 @@ const committie = () => {
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Joint Secretary</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Tintisha H Sagar , <br />
               Joint Secretary,  <br />
 Dayananda Sagar College of Engineering,   <br />
@@ -83,7 +83,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111.  <br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Joint Secretary</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Natasha H Sagar, <br />
               Joint Secretary, <br />
 Dayananda Sagar College of Engineering,  <br />
@@ -97,7 +97,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Joint Secretary</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Nishanth H Sagar <br />
               Joint Secretary<br /> 
 Dayananda Sagar College of Engineering, <br /> 
@@ -125,7 +125,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Principal</h3>
 
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr B G Prasad , <br />
               Principal, <br />
               Dayananda Sagar College of Engineering,  <br />
@@ -139,7 +139,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Vice Principal</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr Ramaraju H , <br />
 Vice Principal,  <br />
 Dayananda Sagar College of Engineering,   <br />
@@ -153,7 +153,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111.  <br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Vice Principal</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr Suma V , <br />
 Vice Principal, <br />
 Dayananda Sagar College of Engineering,  <br />
@@ -167,7 +167,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Professor & HOD,ETE Department</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr Anju V kulkarni <br />
 Professor & HOD,ETE Department<br /> 
 Dayananda Sagar College of Engineering, <br /> 
@@ -194,9 +194,9 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Advisory Board Committie</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr C.P.S Prakash, Former Principal, DSCE <br />
-Dr A R Aswatha,Professor,Head,Dept of Medical Electronics <br />
+
 Dr Xiao-Zhi Gao, University of Eastern Finland, Finland <br />
 Dr Geetha Prakash, Global Program Officer, Tooople Technologies Pte Ltd, Singapore <br />
 Dr Amit Swamy,Emirates College of Technology ,Abudhabi,UAE <br />
@@ -217,6 +217,7 @@ Missouri University of Science and Technology
 Rolla, <br />
 Dr D. P Agarwal, ex Chairman of the Union Public Service Commission of India.<br />
 Dr R. K. Jain, Director, JSPM, RSCOE, Pune<br />
+Dr A R Aswatha,Professor,Head,Dept of Medical Electronics <br />
               </p>
           </div>
 
@@ -226,7 +227,7 @@ Dr R. K. Jain, Director, JSPM, RSCOE, Pune<br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Steering Committees</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr Smitha Sasi,Associate Professor,DSCE  <br /> 
               Dr Srividya B V,Associate Professor,DSCE<br />
 
@@ -242,7 +243,7 @@ Dr Devaraju R,Associate Professor,DSCE <br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Publication Committees</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr Vinod B Durdi,Associate Professor,DSCE<br />
 Dr Smitha Sasi,Associate Professor,DSCE<br />
 Dr Srividya B V,Associate Professor,DSCE<br />
@@ -258,7 +259,7 @@ Mr Sandeep K V,Assistant Professor,DSCE<br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Registration Committees</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr Ganashree T S,Associate Professor,DSCE<br />
               Dr Santhosh B,Assistant Professor,DSCE <br />
  Mr T Kiran Kumar,Assistant Professor,DSCE <br/>
@@ -275,7 +276,7 @@ Mr Sandeep K V,Assistant Professor,DSCE<br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Finance Committees</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr Srividya B V,Associate Professor,DSCE <br />
             Dr Smitha Sasi,Associate Professor,DSCE <br />
 Dr Devaraju,Associate Professor,DSCE <br />
@@ -293,7 +294,7 @@ Mrs Deepthi Raj,Assistant Professor,DSCE <br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Review Committees</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl text-xl">
             
               Dr Devaraju,Associate Professor,DSCE<br />
   Dr Ganashree T S,Associate Professor,DSCE<br />
@@ -305,14 +306,14 @@ Mrs Deepthi Raj,Assistant Professor,DSCE <br />
    Mr Jayanth C,Assistant Professor,DSCE<br />
               </p>
           </div>
-
+         
           <div>
               <div class="flex justify-center items-center mb-4 w-400 h-400 rounded-full dark:bg-primary-900">
                   
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Technical Support Committees</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
             
               Mrs Krishnaveni Patil<br />
 Mr Harsha L<br />
@@ -334,7 +335,7 @@ Mrs Arathi B Kadapatti <br />
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">Media</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
-              <p class="text-gray-500 dark:text-gray-400">
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
             
              
 Mr Harsha L<br />
@@ -343,8 +344,27 @@ Mr Harsha L<br />
 
              
           </div>
+          <div>
+              <div class="flex justify-center items-center mb-4 w-400 h-400 rounded-full dark:bg-primary-900">
+                  
+              </div>
+              <h3 class="mb-2 text-xl font-bold dark:text-white">Program Coordiators</h3>
+              <div class="border-b-4 border-indigo-500 ..."></div>
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
+            
+             
+              Dr Smitha Sasi,Associate Professor,DSCE <br />
+              Dr Srividya B V,Associate Professor,DSCE <br />
+              Dr Swetha Ravikanti,Assistant Professor,DSCE<br />
+              Mr Sandeep K V,Assistant Professor,DSCE<br />
+
+              </p>
+
+             
+         
 
           
+          </div>
           </div>
      
 

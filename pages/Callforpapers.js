@@ -3,10 +3,10 @@ import Image from 'next/image';
 import logo3 from '../Images/logo3.jpeg';
 import logo4 from '../Images/logo4.jpeg';
 import logo5 from '../Images/logo5.jpeg';
-
+import approved from '../Images/approved.png';
 const Callforpapers = () => {
   return (<>
-  <div className='bg-gray-800 pt-20'>
+  <div className='bg-gray-400 pt-20'>
     <div className='text-3xl pt-3 text-orange-300 text-center'>
     Call For Papers
       
@@ -18,9 +18,10 @@ All accepted papers under this conference will be published in SCOPUS Indexed Jo
 <div>
                
                <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
-               <Image className='rounded-3xl w-[30vh] mx-6 ' src={logo3} alt="" />
-               <Image className='rounded-3xl w-[30vh] mx-6' src={logo4} alt="" />
-               <Image className='rounded-3xl w-[30vh] mx-6' src={logo5} alt="" />
+               <img  className='rounded-full' src="https://ieeeaccess.ieee.org/wp-content/uploads/2014/10/scopus-transparent.png" alt='' />
+                
+               <Image  className='rounded-3xl mx-7 w-[20vh] text-justify '  src={approved} alt="" />
+                <img  className='rounded-full w-[20vh]' src="https://imgs.search.brave.com/ILEEqeGjun7QFFTHzvFd0t5Qt-mifW3NmD0s3O4_Klw/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/YWFjLmFjLmlsL2xp/YnJhcnkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvd2Vi/X29mX3NjaWVuY2Vf/bG9nby5naWY.gif" alt='' />
                </div>
               
               

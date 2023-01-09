@@ -3,12 +3,15 @@ import Image from 'next/image';
 import dsi from '../Images/dsi.png'
 import logo1 from '../Images/logo1.png'
 import logo2 from '../Images/logo2.jpg'
+import spense from '../Images/spense.jpeg'
+
+
 
 const Footer = () => {
   return (
     <div className=''>
       
-<footer class="p-4 bg-gray-800 text-white sm:p-6 dark:bg-gray-900">
+<footer class="p-4 bg-blue-700 text-white sm:p-6 dark:bg-gray-900">
     <div class="md:flex md:justify-between">
         <div class="mb-6 md:mb-0">
             <a class="flex items-center">
@@ -37,6 +40,7 @@ const Footer = () => {
                 <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
                 <Image className='rounded-full w-[20vh] mx-3 ' src={logo1} alt="" />
                 <Image className='rounded-full w-[20vh] mx-3' src={logo2} alt="" />
+                <Image className='rounded-full w-[20vh] mx-3' src={spense} alt="" />
                 </div>
                
                

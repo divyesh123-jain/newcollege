@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = () => {
   return (<>
-  <div className='pt-40 pb-36'>
+  <div className='pt-40 pb-36 mx-7'>
    <div class="space-y-8 md:grid md:grid-cols-3 lg:grid-cols-3 md:gap-12 md:space-y-0">
           
               <div className='flex'>

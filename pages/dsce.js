@@ -2,8 +2,8 @@ import React from 'react';
 
 const Dsce = () => {
   return (<>
-    <div className='bg-orange-400 text-white'>
-      <h1 className='text-center text-3xl pt-2'>About Department</h1>
+    <div className='bg-green-100 text-black'>
+      <h1 className='text-center font-bold text-3xl pt-2'>About Department</h1>
 
 
 
@@ -13,7 +13,7 @@ const Dsce = () => {
       <div className='flex-1 justify-between'>
 <div>
 
-<p className=' text-xl '>Department of Telecommunication Engineering started in 1991 prides in its academic achievements by bagging ranks consecutively. Off late the nomenclature has been changed to “Electronics and Telecommunication Engineering”. The department has state-of-the-art laboratories which include equipment for carrying out research in the recent trends like communication and Networking The Department offers B. E & M. Tech Courses. It also has a R&D center recognized by VTU, Belagavi leading to Ph. D. The department has been accredited by National Board of Accreditation (NBA) in Tier 1 category.
+<p className=' text-xl  font-bold text-justify '>Department of Telecommunication Engineering started in 1991 prides in its academic achievements by bagging ranks consecutively. Off late the nomenclature has been changed to “Electronics and Telecommunication Engineering”. The department has state-of-the-art laboratories which include equipment for carrying out research in the recent trends like communication and Networking The Department offers B. E & M. Tech Courses. It also has a R&D center recognized by VTU, Belagavi leading to Ph. D. The department has been accredited by National Board of Accreditation (NBA) in Tier 1 category.
 </p>
 
 
@@ -32,10 +32,10 @@ const Dsce = () => {
 
 
 </section>
+<div className='bg-red-100'>
 
 
-
-<h1 className='text-center text-3xl pt-2'>Vision & Mission Of The Department </h1>
+<h1 className='text-center font-bold text-3xl pt-2'>Vision & Mission Of The Department </h1>
 
 
 
@@ -55,15 +55,16 @@ const Dsce = () => {
 <div className='flex-1 justify-between'>
 <div>
 <h1 className='mx-32 md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>
-<p className=' text-xl '>To disseminate quality technical education for achieving Academic Excellence through focused research encompassing Mobile, Sensor, and Telecommunication networks with a thrust on Space Communication and Telecommunication Standards. 
+<p className=' text-xl font-bold  text-justify'>To disseminate quality technical education for achieving Academic Excellence through focused research encompassing Mobile, Sensor, and Telecommunication networks with a thrust on Space Communication and Telecommunication Standards. 
 </p>
-<p className='text-xl'>By disseminating the knowledge of devices, systems, and technologies that are impacting the Telecommunication field.               
+<p className='text-xl  text-justify'>By disseminating the knowledge of devices, systems, and technologies that are impacting the Telecommunication field.               
  By educating students towards multidisciplinary practices of Telecommunication industry and standards for a successful career.  
 By inculcating research attitude among graduates through continuous life long learning related to Telecommunication and its allied domain</p>
 
 </h1>
 </div>
 </div>
+
 
 
 </section>
@@ -74,7 +75,7 @@ By inculcating research attitude among graduates through continuous life long le
 
 </div>
 
-
+</div>
 
 
 
