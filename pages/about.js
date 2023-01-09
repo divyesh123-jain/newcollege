@@ -10,14 +10,14 @@ import approved from '../Images/approved.png';
 
 const about = () => {
   return (
-    <div>
+    <div className='sm:w-full'>
       <div class="text-center sm:text-left bg-slate-400 " 
        style={{
         backgroundImage: "url()",
         backgroundSize: 'cover',
         backgroundPosition: 'center'
       }} >
-    <header class="absolute inset-x-0 top-0 z-10 w-full">
+    <header class="absolute inset-x-0 top-0 w-full">
         <div class="px-4 mx-auto  lg:px-8">
             <div class="flex items-center justify-between h-16 lg:h-20">
                 <div class="flex-shrink-0">

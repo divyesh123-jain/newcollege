@@ -12,7 +12,7 @@ const Contact = () => {
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">
               
-               Dr Smitha Sasi</h3>
+               Dr. Smitha Sasi</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400">Contact Number:- +91-9945800645,
               <br />Associate Professor<br />
@@ -29,7 +29,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br /></p>
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">
               
-              Dr Swetha Ravikanti</h3>
+              Dr. Swetha Ravikanti</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400">Contact Number:- +91-9491228595,
               <br />Assistant Professor<br />

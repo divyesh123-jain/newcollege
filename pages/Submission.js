@@ -5,16 +5,16 @@ const Submission = () => {
     <>
     <div className=''>
     <div className='bg-blue-100 pt-20 pb-16'>
-        <h1 className='text-3xl  text-[red] mx-7' >Submission</h1>
+        <h1 className='text-3xl  text-[red] mx-12' >Submission</h1>
      
-      <p className='text-xl mx-7'>Access ICAETIS-2023 Call for Papers to know more about the theme of the 2023 conference event.</p>
+      <p className='text-xl mx-12'>Access ICAETIS-2023 Call for Papers to know more about the theme of the 2023 conference event.</p>
     
- <p  className='text-xl mx-7'>The submitted paper must report a substantial advance in an area of computational vision that is both novel and significant.
+ <p  className='text-xl mx-12'>The submitted paper must report a substantial advance in an area of computational vision that is both novel and significant.
 
 </p>
-<h1 className='text-3xl mx-7 text-[red] pt-5'>Important Dates</h1>
+<h1 className='text-3xl mx-12 text-[red] pt-5'>Important Dates</h1>
 
-<p className='text-xl mx-7 pt-10'>
+<p className='text-xl mx-12 pt-10'>
   
    Paper Submission-February 10th 2023<br />
   
@@ -26,8 +26,8 @@ const Submission = () => {
 
 </p>
       
-      <p  className='text-3xl mx-7 text-[red] pt-5'>Manuscript Style Information:</p>
-      <p  className='text-xl mx-7'>
+      <p  className='text-3xl mx-12 text-[red] pt-5'>Manuscript Style Information:</p>
+      <p  className='text-xl mx-12'>
       Papers must be written in English and use standard ICAETIS-2023 conference template.<br />
       Only papers prepared in the prescribed paper template will be accepted<br />
       Main text (including figures, tables, appendices, and any material other than references) should be no more than 8 pages.<br />
@@ -44,8 +44,8 @@ const Submission = () => {
           <br />
       </p>
       
-      <p  className='text-3xl mx-7 text-[red] pt-5 '>General Instructions:</p>
-      <p  className='text-xl mx-7'>
+      <p  className='text-3xl mx-12 text-[red] pt-5 '>General Instructions:</p>
+      <p  className='text-xl mx-12'>
         Only original papers that have not been published or submitted for publication elsewhere will be considered.<br />
         
           Submissions should contain work that is substantially complete, with specific reference to new results and sufficient details included to
@@ -62,8 +62,8 @@ const Submission = () => {
         <br />
       </p>
      
-      <p  className='text-3xl mx-7 text-[red] pt-5'>Plagiarism Policy:</p>
-      <p className='text-xl mx-7'>
+      <p  className='text-3xl mx-12 text-[red] pt-5'>Plagiarism Policy:</p>
+      <p className='text-xl mx-12'>
        
           All papers submitted to ICAETIS-2023 will be checked for plagiarism. If a paper results with a high similarity (including
           self-plagiarism), the paper may not be reviewed and automatically rejected.
@@ -78,20 +78,20 @@ const Submission = () => {
           <br />
         </p> 
       
- <p  className='text-3xl mx-7 text-[red] pt-5'>Manuscript Template:</p>
+ <p  className='text-3xl mx-12 text-[red] pt-5'>Manuscript Template:</p>
      
-       <a className='text-gray-800 mx-7' href="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-a4.docx"><span className='text-[red]'>click here</span></a>for MsWord Template
+       <a className='text-gray-800 mx-12' href="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-a4.docx"><span className='text-[red]'>click here</span></a>for MsWord Template
 <br />
  {/* <a className='text-gray-800'  href="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/conference-latex-template_10-17-19.zip"><span className='text-[red]'>click here</span></a>for LaTex Template */}
       <br />
 <br />
 
-<p  className='text-3xl mx-7 text-[red]'>Submission Form:</p>
+<p  className='text-3xl mx-12 text-[red]'>Submission Form:</p>
 
-        <p  className='text-xl mx-7'>
+        <p  className='text-xl mx-12'>
           The research article should be according to the aforementioned template, and provided in electronic form (MS-Word/PDF) 
           </p>
-          <a href="https://forms.gle/MVj9KYHgiJxdQ79J8"><span className='text-[red] mx-7'>click here</span></a>  To Submit Paper
+          <a href="https://forms.gle/MVj9KYHgiJxdQ79J8"><span className='text-[red] mx-12'>click here</span></a>  To Submit Paper
     </div>
     </div>
  

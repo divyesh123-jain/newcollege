@@ -3,7 +3,7 @@ import React from 'react';
 const Dsce = () => {
   return (<>
     <div className='bg-green-100 text-black'>
-      <h1 className='text-center font-bold text-3xl pt-2'>About Department</h1>
+      <h1 className='text-center font-bold text-5xl pt-2'>About Department</h1>
 
 
 
@@ -35,7 +35,7 @@ const Dsce = () => {
 <div className='bg-red-100'>
 
 
-<h1 className='text-center font-bold text-3xl pt-2'>Vision & Mission Of The Department </h1>
+<h1 className='text-center font-bold text-5xl pt-2'>Vision & Mission Of The Department </h1>
 
 
 

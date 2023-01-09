@@ -25,7 +25,7 @@ const conference = () => {
     <div>
 
 
-    <h1 className='text-xl font-bold text-center pt-3 '>About Conference</h1>
+    <h1 className='text-5xl font-bold text-center pt-3 '>About Conference</h1>
       <section className='min-h-screen flex md:flex-row flex-col items-center'>
 
 {/* Image section */}
@@ -53,7 +53,7 @@ const conference = () => {
 
 
 
-<h1 className='text-xl font-bold text-center'>Objective of the Conference</h1>
+<h1 className='text-5xl font-bold text-center'>Objective of the Conference</h1>
       <section className='min-h-screen flex py-10 md:flex-row flex-col items-center'>
 
 
@@ -83,7 +83,7 @@ This Conference focuses on bringing together people who share a common disciplin
 </section>
 
 
-<h1 className='text-xl font-bold text-center'>Outcomes Of The Conference </h1>
+<h1 className='text-5xl font-bold text-center'>Outcomes Of The Conference </h1>
       <section className='min-h-screen flex py-10 md:flex-row flex-col items-center'>
 
 {/* Image section */}
@@ -99,11 +99,11 @@ This Conference focuses on bringing together people who share a common disciplin
 <div>
 <h1 className='mx-32 md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>
 <ul className=' text-xl  text-justify'>
-<li className='pt-2'>1.Maximize learning by facilitating discussions and learning sessions by using various presentation formats: in-person presentations, poster presentations, virtual presentations, workshops. This is a motivational factor as one aspires to overcome fears and achieve one’s dreams.</li>
-<li className='pt-2'>2.Networking and idea-sharing amongst faculty/research scholars/students and other participants in the similar field of studies all around the world to share technological breakthroughs. Enable both formal and informal opportunities for networking for future collaborations</li>
-<li className='pt-2'>3.Promotion of research presented at the event reaches as many people as possible through open-access publishing throughout the network and various marketing channels</li>
-<li className='pt-2'>4.The personal or professional development of academicians,  as it  is vital to find out whats new in ones own  field of study for progressing in an academic discipline</li>
-<li className='pt-2'>5.Socializing leading  to acquiring  different views and dispositions, edifies the way of thinking in the defined field of study and capturing some nuances on different aspects and solutions which exist on the same issues.  </li>
+<li className='pt-2'> ●Maximize learning by facilitating discussions and learning sessions by using various presentation formats: in-person presentations, poster presentations, virtual presentations, workshops. This is a motivational factor as one aspires to overcome fears and achieve one’s dreams.</li>
+<li className='pt-2'> ●Networking and idea-sharing amongst faculty/research scholars/students and other participants in the similar field of studies all around the world to share technological breakthroughs. Enable both formal and informal opportunities for networking for future collaborations</li>
+<li className='pt-2'> ●Promotion of research presented at the event reaches as many people as possible through open-access publishing throughout the network and various marketing channels</li>
+<li className='pt-2'> ●The personal or professional development of academicians,  as it  is vital to find out whats new in ones own  field of study for progressing in an academic discipline</li>
+<li className='pt-2'> ●Socializing leading  to acquiring  different views and dispositions, edifies the way of thinking in the defined field of study and capturing some nuances on different aspects and solutions which exist on the same issues.  </li>
 
 </ul>
 
