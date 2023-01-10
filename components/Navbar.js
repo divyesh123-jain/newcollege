@@ -57,9 +57,9 @@ const Navbar = () => {
       }
     >
       <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16'>
-      <div className='flex mx-5'>
-        <Image src={dsi} className="rounded-full w-[10vh]" alt="" />
-        <Image src={re} className="rounded-full w-[10vh] mx-5" alt="" />
+      <div className='flex mx-5 '>
+        <Image src={dsi} className="rounded-full w-[9vh] " alt="" />
+        <Image src={re} className="rounded-full w-[9vh]  mx-5" alt="" />
         
       </div>
         <Link href='/'>

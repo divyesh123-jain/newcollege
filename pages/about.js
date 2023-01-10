@@ -11,7 +11,7 @@ import approved from '../Images/approved.png';
 const about = () => {
   return (
     <div className='sm:w-full'>
-      <div class="text-center sm:text-left bg-slate-400 " 
+      <div class="text-center sm:text-left bg-blue-100 " 
        style={{
         backgroundImage: "url()",
         backgroundSize: 'cover',
@@ -46,9 +46,9 @@ const about = () => {
         <div class="absolute inset-x-0 bottom-0 z-10 hidden lg:flex">
             
         </div>
-        <p class=" text-black text-center font-bold sm:text-4xl">Dayananda Sagar College Of Engineering</p>
-        <p class=" text-white text-center pt-2 sm:text-4xl">Department Of Electronics And Telecommunication Engineering</p>
-        <p className='text-center mt-5 pb-4 text-white'>Presents</p>
+        <p class=" text-[#650755] text-center font-bold sm:text-4xl">Dayananda Sagar College Of Engineering</p>
+        <p class=" text-[#650755] text-center pt-2 sm:text-4xl">Department Of Electronics And Telecommunication Engineering</p>
+        <p className='text-center mt-5 pb-4 text-[#650755]'>Presents</p>
         <div class="flex justify-center gap-32 pt-2 pb-3 align items-center">
                 <Image className='rounded-full  mx-96 ' src={conference} alt="" />
 
@@ -61,19 +61,19 @@ const about = () => {
         
             <div class="mx-auto text-center">
                 <h1 class="text-4xl font-bold sm:text-6xl">
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-green-300 to-white"> INTERNATIONAL CONFERENCE <br />ON <br />ADVANCES IN ENGINEERING AND TECHNOLOGY FOR INTELLIGENT SYSTEMS<br />(ICAETIS-2023) </span>
+                    <span class="text-transparent bg-clip-text text-[#650755]"> INTERNATIONAL CONFERENCE <br />ON <br />ADVANCES IN ENGINEERING AND TECHNOLOGY FOR INTELLIGENT SYSTEMS<br />(ICAETIS-2023) </span>
                   
                 </h1>
                 <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
                 
           </div>
 
-               <div>
+               <div className='sm:mx-36'>
                
-                <div className='relative flex justify-center  md:m-8 overflow-hidden  rounded-lg'>
+                <div className='relative md:flex justify-center  m-8 overflow-hidden  rounded-lg'>
                 <img  className='rounded-full' src="https://ieeeaccess.ieee.org/wp-content/uploads/2014/10/scopus-transparent.png" alt='' />
                 
-               <Image  className='rounded-3xl md:mx-7 w-[20vh] text-justify '  src={approved} alt="" />
+               <Image  className='rounded-3xl md:mx-7  w-[20vh] text-justify '  src={approved} alt="" />
                 <img  className='rounded-full w-[20vh]' src="https://imgs.search.brave.com/ILEEqeGjun7QFFTHzvFd0t5Qt-mifW3NmD0s3O4_Klw/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/YWFjLmFjLmlsL2xp/YnJhcnkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvd2Vi/X29mX3NjaWVuY2Vf/bG9nby5naWY.gif" alt='' />
 
                 </div>

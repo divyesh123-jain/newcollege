@@ -64,15 +64,15 @@ const Submission = () => {
       <p className='text-xl mx-12 pt-2'>
        
       ● All papers submitted to ICAETIS-2023 will be checked for plagiarism. If a paper results with a high similarity (including
-          self-plagiarism), the paper may not be<span className='mx-5' >  reviewed and automatically rejected.</span>
+          self-plagiarism), the paper may not be <span className='mx-4' >  reviewed and automatically rejected.</span>
        
           <br />
           ●  Authors will need to provide consent that their submissions may be subject to an early rejection if it is found to have more than 15%
-          overlap with existing<span className='mx-5' >  research work[s] available to the public over the Internet (e.g., arXiv, webpages, etc.).</span>
+          overlap with existing <span className='mx-4' >  research work[s] available to the public over the Internet (e.g., arXiv, webpages, etc.).</span>
       
           <br />
           ● Note that even if a paper is accepted and paid for registration, the program committee has a right to reject the paper due to post
-          conference plagiarism and will not publish the paper in the proceedings.
+          conference plagiarism and <span className='mx-4' >will not publish the paper in the proceedings.</span>
           <br />
         </p> 
       
@@ -85,7 +85,7 @@ const Submission = () => {
         <p  className='text-xl mx-12'>
           The research article should be according to the aforementioned template, and provided in electronic form (MS-Word/PDF) 
           </p>
-          <a href="https://forms.gle/MVj9KYHgiJxdQ79J8"><span className='text-[red] mx-12'>click here</span></a>  To Submit Paper
+          <a href="https://forms.gle/MVj9KYHgiJxdQ79J8"><span className='text-[red] mx-12'>click here</span></a>To Submit Paper
     </div>
     </div>
  

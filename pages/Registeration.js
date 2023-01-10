@@ -12,7 +12,7 @@ const Registeration = () => {
   </p>
       <p className='text-xl mx-12'>The instructions to prepare the aforementioned documents are given below:</p>
     
-      <h5 className='text-xl mx-12'>●Preparing Camera-Ready paper</h5>
+      <h5 className='text-xl mx-12'>● Preparing Camera-Ready paper</h5>
       <ul>
         <li className='text-xl mx-12'>● Improve the manuscript according to the reviewers&rsquo; comments</li>
         <li className='text-xl mx-12'>● Pages are to be finally formatted according the Manuscript Style Information mentioned in the conference submission guidelines.</li>
@@ -28,7 +28,7 @@ const Registeration = () => {
 
         <li className='text-xl mx-12'>
         ● The author should mandatorily fill the following details: Complete list of Author[s] with Affiliation, Paper Title and finally the form
-          should be signed by the corresponding author.
+          should be signed by the <span className='mx-4'>corresponding author</span> .
         </li>
         <li className='text-xl mx-12'>
         ● In case it fails, an email will be sent to the author at a later time with information on how to make another copyright submission attempt.

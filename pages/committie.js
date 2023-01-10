@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
-import vc from '../Images/vicechairman.jpg'
-import chairman from '../Images/Chairman.jpg'
+import vc from '../Images/vice_chairman.png'
+import chairman from '../Images/chairman.png'
 
 const committie = () => {
   return (<>
@@ -27,7 +27,7 @@ const committie = () => {
           </div>
           <div>
               <div className="flex justify-center items-center  mb-4 w-400 h-400  rounded-full dark:bg-primary-900">
-              <Image src={vc} alt=""  className='w-[49vh]'/>
+              <Image src={vc} alt=""  className='w-[40vh]'/>
               </div>
               <h3 className="mb-2 text-xl font-bold dark:text-white">Vice-Chairman</h3>
               <div className="border-b-4 border-indigo-500 ..."></div>

@@ -18,7 +18,7 @@ const Footer = () => {
             <div class="mt-8 sm:mt-0 sm:w-full sm:px-8 flex flex-col md:flex-row justify-between">
                 <div class="flex flex-col">
                 <div className=''>
-        <img src='https://www.dsce.edu.in/images/Home/logo_bottom.png' className='w-[70vh] mx-12' alt="" />
+        <img src='https://www.dsce.edu.in/images/Home/logo_bottom.png' className='w-[70vh] md:mx-12' alt="" />
         <p className='text-2xl  font-bold pt-5'>
         AN AUTONOMOUS INSTITUTE AFFILIATED TO VTU<br /> <span className=''>APPROVED BY AICTE & UGC </span></p>
 
@@ -31,10 +31,10 @@ const Footer = () => {
               
                 <div class="flex flex-col">
                 <p className='text-3xl text-white pt-4 text-center mx-24 '>Technical Partners</p>
-                <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
-                <Image className='rounded-full w-[20vh] mx-1  ' src={logo1} alt="" />
-                <Image className='rounded-full w-[20vh] mx-1' src={logo2} alt="" />
-                <Image className='rounded-full w-[20vh] mx-1' src={spense} alt="" />
+                <div className='relative md:flex justify-center  m-8 overflow-hidden  rounded-lg'>
+                <Image className='rounded-full md:w-[20vh] sm:w-[10vh] md:mx-1  ' src={logo1} alt="" />
+                <Image className='rounded-full md:w-[20vh] md:mx-1' src={logo2} alt="" />
+                <Image className='rounded-full md:w-[20vh] md:mx-1' src={spense} alt="" />
                 </div>
                
                 </div>
