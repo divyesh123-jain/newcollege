@@ -6,28 +6,28 @@ import logo5 from '../Images/logo5.jpeg';
 import approved from '../Images/approved.png';
 const Callforpapers = () => {
   return (<>
-  <div className='bg-purple-100 pt-20'>
-    <div className='text-5xl font-bold pt-3 text-black text-center'>
+  <div className='bg-gradient-to-r from-purple-100 to-blue-200 pt-20'>
+    <div className='text-5xl font-bold pt-3 text-[#650755] text-center'>
     Call For Papers
       
     </div>
-    <p className='text-3xl pt-3 text-center font-bold text-black'>Papers that are submitted will be subject to plagiarism checks and blind reviews.<br />
+    <p className='text-xl pt-3 text-center font-bold text-black'>Papers that are submitted will be subject to plagiarism checks and blind reviews.<br />
 All accepted papers under this conference will be published in SCOPUS Indexed Journals/Web of Science /UGC Care II<br />
 *Upon Selection of the papers Article Processing Charges will be applicable for publishing papers in in SCOPUS Indexed Journals/Web of Science /UGC Care II<br /></p>
 
 <div>
                
-               <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
-               <img  className='rounded-full' src="https://ieeeaccess.ieee.org/wp-content/uploads/2014/10/scopus-transparent.png" alt='' />
+               <div className='relative flex justify-center m-8 overflow-hidden  rounded-lg'>
+               <img  className='rounded-full ' src="https://ieeeaccess.ieee.org/wp-content/uploads/2014/10/scopus-transparent.png" alt='' />
                 
-               <Image className='rounded-3xl mx-7 w-[20vh] text-justify '  src={approved} alt="" />
-                <img  className='rounded-full w-[20vh]' src="https://imgs.search.brave.com/ILEEqeGjun7QFFTHzvFd0t5Qt-mifW3NmD0s3O4_Klw/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/YWFjLmFjLmlsL2xp/YnJhcnkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvd2Vi/X29mX3NjaWVuY2Vf/bG9nby5naWY.gif" alt='' />
+               <Image className='rounded-3xl md:mx-7 w-[20vh] text-justify '  src={approved} alt="" />
+                <img  className='rounded-full w-[20vh] ' src="https://imgs.search.brave.com/ILEEqeGjun7QFFTHzvFd0t5Qt-mifW3NmD0s3O4_Klw/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/YWFjLmFjLmlsL2xp/YnJhcnkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvd2Vi/X29mX3NjaWVuY2Vf/bG9nby5naWY.gif" alt='' />
                </div>
               
               
              </div>
 <div className='mx-8 pt-12 grid  grid-cols-1 sm:grid-cols-1 lg:grid-cols-3 gap-28'>
-    <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[40px] py-[24px] cursor-grab'>
+    <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[10px] py-[4px] cursor-grab'>
  
 
 
@@ -46,7 +46,7 @@ All accepted papers under this conference will be published in SCOPUS Indexed Jo
 </div>
 
 
-<div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[40px] py-[24px] cursor-grab'>
+<div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[10px] py-[24px] cursor-grab '>
 <h5 className='text-center text-3xl font-extrabold'>Track - 2</h5>
 <li className='text-xl font-semibold'>Intelligent Systems for Computing
 And Automation</li>
@@ -64,7 +64,7 @@ And Automation</li>
 
 
 
-<div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[40px] py-[24px] cursor-grab'>
+<div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[10px] py-[24px] cursor-grab'>
 <h5 className='text-center text-3xl font-extrabold'>Track - 3</h5>
 <li className='text-xl font-semibold'>Intelligent Systems in Bio Medical Signal Processing</li>
 <li className='text-xl font-semibold'>Biomedical Applications</li>
@@ -80,7 +80,7 @@ And Automation</li>
 </div>
 
  
-     <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[40px] py-[24px] cursor-grab'>
+     <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[10px] py-[24px] cursor-grab'>
 <h5 className='text-center text-3xl font-extrabold'>Track - 4</h5>
 <li className='text-xl font-semibold'>Intelligent Systems in Life Science and  Health Care</li>
 <li className='text-xl font-semibold'>Ecology</li>
@@ -97,7 +97,7 @@ Bio Diversity</li>
 </div>
   
 
-  <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[40px] py-[24px] cursor-grab'>
+  <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[10px] py-[24px] cursor-grab'>
 <h5 className='text-center text-3xl font-extrabold'>Track - 5</h5>
 <li className='text-xl font-semibold'>Intelligent Systems Robotics and  Transportation</li>
 <li className='text-xl font-semibold'>Intelligent Transportation systems</li>
@@ -113,7 +113,7 @@ Bio Diversity</li>
 </div>
     
     
-       <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[40px] py-[24px] cursor-grab'>
+       <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[10px] py-[24px] cursor-grab'>
 <h5 className='text-center text-3xl font-extrabold'>Track - 6</h5>
 <li className='text-xl font-semibold'>Intelligent systems in Nano Electronics, Smart Grid 
 and electric vehicles</li>
@@ -131,7 +131,7 @@ and electric vehicles</li>
 
     
 
-      <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[40px] py-[24px] cursor-grab'>
+      <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[10px] py-[24px] cursor-grab'>
 <h5 className='text-center text-3xl font-extrabold'>Track - 7</h5>
 <li className='text-xl font-semibold'>Intelligent Systems for Smart City development</li>
 <li className='text-xl font-semibold'>Smart Cities</li>
@@ -148,7 +148,7 @@ and electric vehicles</li>
 
   
 
-  <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[40px] py-[24px] cursor-grab'>
+  <div className='grid2-item mx-auto bg-blue-200 rounded-[30px] border-[4px] border-white px-[10px] py-[24px] cursor-grab'>
 <h5 className='text-center text-3xl font-extrabold'>Track - 8</h5>
 <li className='text-xl font-semibold'>
 Intelligent systems for Mathematical and Business analysis

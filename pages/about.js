@@ -46,7 +46,8 @@ const about = () => {
         <div class="absolute inset-x-0 bottom-0 z-10 hidden lg:flex">
             
         </div>
-        <p class=" text-white text-center sm:text-4xl">Dayananda Sagar College Of Engineering</p>
+        <p class=" text-black text-center font-bold sm:text-4xl">Dayananda Sagar College Of Engineering</p>
+        <p class=" text-white text-center pt-2 sm:text-4xl">Department Of Electronics And Telecommunication Engineering</p>
         <p className='text-center mt-5 pb-4 text-white'>Presents</p>
         <div class="flex justify-center gap-32 pt-2 pb-3 align items-center">
                 <Image className='rounded-full  mx-96 ' src={conference} alt="" />
@@ -69,10 +70,10 @@ const about = () => {
 
                <div>
                
-                <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
+                <div className='relative flex justify-center  md:m-8 overflow-hidden  rounded-lg'>
                 <img  className='rounded-full' src="https://ieeeaccess.ieee.org/wp-content/uploads/2014/10/scopus-transparent.png" alt='' />
                 
-               <Image  className='rounded-3xl mx-7 w-[20vh] text-justify '  src={approved} alt="" />
+               <Image  className='rounded-3xl md:mx-7 w-[20vh] text-justify '  src={approved} alt="" />
                 <img  className='rounded-full w-[20vh]' src="https://imgs.search.brave.com/ILEEqeGjun7QFFTHzvFd0t5Qt-mifW3NmD0s3O4_Klw/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/YWFjLmFjLmlsL2xp/YnJhcnkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvd2Vi/X29mX3NjaWVuY2Vf/bG9nby5naWY.gif" alt='' />
 
                 </div>

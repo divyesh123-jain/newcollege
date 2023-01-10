@@ -11,48 +11,46 @@ const Footer = () => {
   return (
     <div className=''>
       
-      <footer class="bg-blue-600 text-center lg:text-left">
-  <div class="container p-6 text-gray-800">
-    <div class="grid lg:grid-cols-2 gap-4">
-      <div class="mb-6 md:mb-0">
-        <h5 class="font-medium mb-2 uppercase"></h5>
+      <footer class="footer bg-blue-600 relative pt-1 border-b-2 border-blue-700">
+    <div class="container mx-auto px-6">
 
-        <p class="mb-4">
-        <div>
-        <img src='https://www.dsce.edu.in/images/Home/logo_bottom.png' className='w-[100vh]' alt="" />
-        <p className='text-2xl text-white font-bold pt-5'>
-        AN AUTONOMOUS INSTITUTE AFFILIATED TO VTU,<br /> <span className='mx-24'>APPROVED BY AICTE & UGC </span></p>
+        <div class="sm:flex sm:mt-8">
+            <div class="mt-8 sm:mt-0 sm:w-full sm:px-8 flex flex-col md:flex-row justify-between">
+                <div class="flex flex-col">
+                <div className=''>
+        <img src='https://www.dsce.edu.in/images/Home/logo_bottom.png' className='w-[70vh] mx-12' alt="" />
+        <p className='text-2xl  font-bold pt-5'>
+        AN AUTONOMOUS INSTITUTE AFFILIATED TO VTU<br /> <span className=''>APPROVED BY AICTE & UGC </span></p>
 
  
-<p className='text-2xl text-white font-bold'>ACCREDITED BY NBA & NAAC WITH A GRADE.</p>
+<p className='text-2xl  font-bold'>ACCREDITED BY NBA & NAAC WITH A GRADE.</p>
         
        
         </div>
-       
-        </p>
-      </div>
-
-      <div class="mb-6 md:mb-0 ">
-        
-
-        <p class="mb-4 align items-right">
-        <p className='text-3xl text-white pt-4 text-center mx-24 '>Technical Partners</p>
-                <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
-                <Image className='rounded-full w-[20vh] mx-3 ' src={logo1} alt="" />
-                <Image className='rounded-full w-[20vh] mx-3' src={logo2} alt="" />
-                <Image className='rounded-full w-[20vh] mx-3' src={spense} alt="" />
                 </div>
-        </p>
-      </div>
+              
+                <div class="flex flex-col">
+                <p className='text-3xl text-white pt-4 text-center mx-24 '>Technical Partners</p>
+                <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
+                <Image className='rounded-full w-[20vh] mx-1  ' src={logo1} alt="" />
+                <Image className='rounded-full w-[20vh] mx-1' src={logo2} alt="" />
+                <Image className='rounded-full w-[20vh] mx-1' src={spense} alt="" />
+                </div>
+               
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-
-  <div class="text-center text-gray-700 p-4" >
-    © 2023 Copyright:
-    <a class="text-gray-800" href="https://tailwind-elements.com/">Department OF Electronics And Telecommunication Engineering</a>
-  </div>
+    <div class="container mx-auto px-6">
+        <div class="mt-16 border-t-2 border-gray-300 flex flex-col items-center">
+            <div class="sm:w-2/3 text-center py-6">
+                <p class="text-sm text-white font-bold mb-2">
+                    © 2023 by Department Of Electronics And Telecommunication Engineering
+                </p>
+            </div>
+        </div>
+    </div>
 </footer>
-
     </div>
   );
 }

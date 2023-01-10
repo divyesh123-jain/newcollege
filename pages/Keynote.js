@@ -3,12 +3,12 @@ import React from 'react';
 const Keynote = () => {
   return (
     <div>
-      <div className='bg-blue-100 pt-20'>
+      <div className='bg-gradient-to-r from-purple-100 to-blue-100 pt-20'>
     <div >
     <section class=" dark:bg-gray-900">
   <div class="py-8 px-4  max-w-screen-xl sm:py-16 lg:px-6 mx-7">
       <div class="max-w-screen-md mb-8 lg:mb-16">
-          <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">KEYNOTE SPEAKERS</h2>
+          <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-[#650755] dark:text-white">KEYNOTE SPEAKERS</h2>
 
           <div class="border-b-4 border-indigo-500 ..."></div>
    

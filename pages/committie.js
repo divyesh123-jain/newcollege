@@ -10,10 +10,10 @@ const committie = () => {
     <section className=" dark:bg-gray-900">
   <div className="py-8 px-4  max-w-screen-xl sm:py-16 lg:px-6 mx-7">
       <div className="max-w-screen-md mb-8 lg:mb-16">
-          <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-gray-900 dark:text-white">Committee</h2>
+          <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-[#650755] dark:text-white">Committee</h2>
 
           <div className="border-b-4 border-indigo-500 ..."></div>
-          <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-gray-900 dark:text-white"> Chief Patrons</h2>
+          <h2 className="mb-4 text-5xl tracking-tight font-extrabold pt-3 text-[#650755] dark:text-white"> Chief Patrons</h2>
       </div>
       <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
           <div>
@@ -22,8 +22,8 @@ const committie = () => {
               </div>
               <h3 className="mb-2 text-xl font-bold dark:text-white"> Chairman</h3>
               <div className="border-b-4 border-indigo-500 ..."></div>
-              <p className="text-gray-500 dark:text-gray-400 text-xl"> Dr.D Hemachandra Sagar,<br />
-              Dayananda Sagar Instutions,Bangalore</p>
+              <p className="text-gray-500 dark:text-gray-400 text-xl"> Dr.D Hemachandra Sagar<br />
+              Dayananda Sagar Instutions, Bangalore</p>
           </div>
           <div>
               <div className="flex justify-center items-center  mb-4 w-400 h-400  rounded-full dark:bg-primary-900">
@@ -31,8 +31,8 @@ const committie = () => {
               </div>
               <h3 className="mb-2 text-xl font-bold dark:text-white">Vice-Chairman</h3>
               <div className="border-b-4 border-indigo-500 ..."></div>
-              <p className="text-gray-500 dark:text-gray-400 text-xl">Dr.D Premachandra Sagar,<br />
-              Dayananda Sagar Instutions,Bangalore
+              <p className="text-gray-500 dark:text-gray-400 text-xl">Dr.D Premachandra Sagar<br />
+              Dayananda Sagar Instutions, Bangalore
               </p>
           </div>
       
@@ -42,7 +42,7 @@ const committie = () => {
 
   <div className="py-8 px-4 mx-7 max-w-screen-xl sm:py-16 lg:px-6">
       <div className="max-w-screen-md mb-8 lg:mb-16">
-          <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-gray-900 dark:text-white">Patrons</h2>
+          <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-[#650755] dark:text-white">Patrons</h2>
           <div className="border-b-4 border-indigo-500 ..."></div>
       </div>
 
@@ -56,9 +56,9 @@ const committie = () => {
 
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Galiswamy , <br />
-              Secretary, <br />
-              Dayananda Sagar College of Engineering,  <br />
+              Galiswamy <br />
+              Secretary <br />
+              Dayananda Sagar Instutions, Bangalore <br />
                <br />
               </p>
           </div>
@@ -70,9 +70,9 @@ const committie = () => {
               <h3 class="mb-2 text-xl font-bold dark:text-white">Joint Secretary</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Tintisha H Sagar , <br />
-              Joint Secretary,  <br />
-Dayananda Sagar College of Engineering,   <br />
+              Tintisha H Sagar  <br />
+              Joint Secretary <br />
+              Dayananda Sagar Instutions, Bangalore  <br />
 
               </p>
           </div>
@@ -84,9 +84,9 @@ Dayananda Sagar College of Engineering,   <br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Joint Secretary</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Natasha H Sagar, <br />
-              Joint Secretary, <br />
-Dayananda Sagar College of Engineering,  <br />
+              Natasha H Sagar <br />
+              Joint Secretary <br />
+              Dayananda Sagar Instutions, Bangalore <br />
 
               </p>
           </div>
@@ -100,7 +100,7 @@ Dayananda Sagar College of Engineering,  <br />
               <p class="text-gray-500 dark:text-gray-400 text-xl">
               Nishanth H Sagar <br />
               Joint Secretary<br /> 
-Dayananda Sagar College of Engineering, <br /> 
+              Dayananda Sagar Instutions, Bangalore <br /> 
 
               </p>
           </div>
@@ -114,7 +114,7 @@ Dayananda Sagar College of Engineering, <br />
               <p class="text-gray-500 dark:text-gray-400 text-xl">
               Rohan Prem Sagar <br />
               Joint Secretary<br /> 
-Dayananda Sagar College of Engineering, <br /> 
+              Dayananda Sagar Instutions, Bangalore <br /> 
 
               </p>
           </div>
@@ -126,7 +126,7 @@ Dayananda Sagar College of Engineering, <br />
 
   <div class="py-8 px-4 mx-7 max-w-screen-xl sm:py-16 lg:px-6">
       <div class="max-w-screen-md mb-8 lg:mb-16">
-          <h2 class="mb-4 text-5xl tracking-tight font-extrabold text-gray-900 dark:text-white">Organizing Chair</h2>
+          <h2 class="mb-4 text-5xl tracking-tight font-extrabold text-[#650755] dark:text-white">Organizing Chair</h2>
           <div class="border-b-4 border-indigo-500 ..."></div>
       </div>
 
@@ -140,9 +140,9 @@ Dayananda Sagar College of Engineering, <br />
 
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Dr. B G Prasad , <br />
-              Principal, <br />
-              Dayananda Sagar College of Engineering,  <br />
+              Dr. B G Prasad  <br />
+              Principal <br />
+              Dayananda Sagar College of Engineering  <br />
             
               </p>
           </div>
@@ -154,9 +154,9 @@ Dayananda Sagar College of Engineering, <br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Vice Principal</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Dr. Ramaraju H , <br />
-Vice Principal,  <br />
-Dayananda Sagar College of Engineering,   <br />
+              Dr. Ramaraju H k <br />
+Vice Principal  <br />
+Dayananda Sagar College of Engineering   <br />
 
               </p>
           </div>
@@ -168,9 +168,9 @@ Dayananda Sagar College of Engineering,   <br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Vice Principal</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Dr. Suma V , <br />
-Vice Principal, <br />
-Dayananda Sagar College of Engineering,  <br />
+              Dr. Suma V  <br />
+Vice Principal <br />
+Dayananda Sagar College of Engineering  <br />
 
               </p>
           </div>
@@ -184,7 +184,7 @@ Dayananda Sagar College of Engineering,  <br />
               <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr. Anju V kulkarni <br />
 Professor & HOD,ETE Department<br /> 
-Dayananda Sagar College of Engineering, <br /> 
+Dayananda Sagar College of Engineering <br /> 
 
               </p>
           </div>
@@ -207,28 +207,28 @@ Dayananda Sagar College of Engineering, <br />
               <div class="flex justify-center items-center mb-4 w-400 h-400 rounded-full dark:bg-primary-900">
                   
               </div>
-              <h3 class="mb-2 text-xl font-bold dark:text-white">Advisory Board Committie</h3>
+              <h3 class="mb-2 text-xl font-bold dark:text-white">Advisory Board Committee</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
               Dr. C.P.S Prakash, Former Principal, DSCE <br />
 
 Dr. Xiao-Zhi Gao, University of Eastern Finland, Finland <br />
 Dr. Geetha Prakash, Global Program Officer, Tooople Technologies Pte Ltd, Singapore <br />
-Dr. Amit Swamy,Emirates College of Technology ,Abudhabi,UAE <br />
-Dr. Ekant Sharma, Faculty,Dept of ECE,IIT Roorkee <br />
+Dr. Amit Swamy,Emirates College of Technology , Abudhabi, UAE <br />
+Dr. Ekant Sharma, Faculty,Dept of ECE, IIT Roorkee <br />
 Mr. Padmanaban Kalyanaraman, CEG - Intel  <br />
-Dr. Bhanu Prashanth Professor  Department of Medical Electronics ,BMS College of Engineering, Bangalore <br />
-Dr. Swaminathan ,Faculty ,Dept of EEE,IIT Indore <br />
-Mr. Paramananda Jena , Scientist , LRDE DRDO, Bangalore <br />
-Dr. NC Shivaprakash , Professor,Department of Instrumentation,IISc Bangalore  <br />
-Mrs. Jailaxmi,Scientist,LRDE,Bangalore <br /> 
-Dr. G. S Mani, Ex Director, Dfence Institute of Advanced Technology, Pune <br />
+Dr. Bhanu Prashanth Professor  Department of Medical Electronics, BMS College of Engineering, Bangalore <br />
+Dr. Swaminathan, Faculty, Dept of EEE, IIT Indore <br />
+Mr. Paramananda Jena, Scientist, LRDE DRDO, Bangalore <br />
+Dr. NC Shivaprakash, Professor, Department of Instrumentation, IISc Bangalore  <br />
+Mrs. Jailaxmi, Scientist, LRDE, Bangalore <br /> 
+Dr. G. S Mani, Ex Director, Defence Institute of Advanced Technology, Pune <br />
 Dr. Sajal Das, Professor, Missouri University of Science and Technology, US <br />
-Dr. Y. M. Jayaraj,The Chief Advisor to Hon’ble Chancellor <br />
+Dr. Y. M. Jayaraj, The Chief Advisor to Hon’ble Chancellor <br />
 Dr. D.Y. Patil Vidyapeeth <br />
 Dr. D. P Agarwal, ex Chairman of the Union Public Service Commission of India.<br />
 Dr. R. K. Jain, Director, JSPM, RSCOE, Pune<br />
-Dr. A R Aswatha,Professor,Head,Dept of Medical Electronics <br />
+Dr. A R Aswatha,Professor, Head, Dept of Medical Electronics <br />
               </p>
           </div>
 
@@ -239,12 +239,12 @@ Dr. A R Aswatha,Professor,Head,Dept of Medical Electronics <br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Steering Committee</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Dr. Smitha Sasi,Associate Professor,DSCE  <br /> 
-              Dr. Srividya B V,Associate Professor,DSCE<br />.
+              Dr. Smitha Sasi, Associate Professor, DSCE  <br /> 
+              Dr. Srividya B V, Associate Professor, DSCE<br />
 
-Dr. Vinod B Durdi,Associate Professor,DSCE <br />
-Dr. Ganashree T S,Associate Professor,DSCE<br />
-Dr. Devaraju R,Associate Professor,DSCE <br />           
+Dr. Vinod B Durdi, Associate Professor, DSCE <br />
+Dr. Ganashree T S, Associate Professor, DSCE<br />
+Dr. Devaraju R, Associate Professor, DSCE <br />           
 </p>
           </div>
 
@@ -255,12 +255,12 @@ Dr. Devaraju R,Associate Professor,DSCE <br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Publication Committee</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Dr Vinod B Durdi,Associate Professor,DSCE<br />
-Dr Smitha Sasi,Associate Professor,DSCE<br />
-Dr Srividya B V,Associate Professor,DSCE<br />
+              Dr. Vinod B Durdi,Associate Professor, DSCE<br />
+Dr. Smitha Sasi, Associate Professor, DSCE<br />
+Dr. Srividya B V, Associate Professor, DSCE<br />
 
-Dr Swetha Ravikanti,Assistant Professor,DSCE<br />
-Mr Sandeep K V,Assistant Professor,DSCE<br />
+Dr. Swetha Ravikanti, Assistant Professor, DSCE<br />
+Mr. Sandeep K V, Assistant Professor, DSCE<br />
               </p>
           </div>
 
@@ -271,12 +271,12 @@ Mr Sandeep K V,Assistant Professor,DSCE<br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Registration Committee</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Dr. Ganashree T S,Associate Professor,DSCE<br />
-              Dr. Santhosh B,Assistant Professor,DSCE <br />
- Mr. T Kiran Kumar,Assistant Professor,DSCE <br/>
- Mr. Sandeep K V,Assistant Professor,DSCE <br/>
- Mrs. Deepthi Raj,Assistant Professor,DSCE <br/>
- Mrs. Anitha Suresh,Assistant Professor,DSCE <br/>
+              Dr. Ganashree T S, Associate Professor,DSCE<br />
+              Dr. Santhosh B, Assistant Professor, DSCE <br />
+ Mr. T Kiran Kumar, Assistant Professor, DSCE <br/>
+ Mr. Sandeep K V, Assistant Professor,DSCE <br/>
+ Mrs. Deepthi Raj, Assistant Professor, DSCE <br/>
+ Mrs. Anitha Suresh, Assistant Professor, DSCE <br/>
               </p>
           </div>
 
@@ -288,12 +288,12 @@ Mr Sandeep K V,Assistant Professor,DSCE<br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Finance Committee</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Dr. Srividya B V,Associate Professor,DSCE <br />
-            Dr. Smitha Sasi,Associate Professor,DSCE <br />
-Dr. Devaraju,Associate Professor,DSCE <br />
-Mrs. P Rajeshwari,Assistant  Professor,DSCE<br />
-Mr. Saravana Kumar,Assistant Professor,DSCE <br />
-Mrs. Deepthi Raj,Assistant Professor,DSCE <br />
+              Dr. Srividya B V, Associate Professor, DSCE <br />
+            Dr. Smitha Sasi, Associate Professor, DSCE <br />
+Dr. Devaraju, Associate Professor, DSCE <br />
+Mrs. P Rajeshwari, Assistant  Professor, DSCE<br />
+Mr. Saravana Kumar, Assistant Professor, DSCE <br />
+Mrs. Deepthi Raj, Assistant Professor, DSCE <br />
               </p>
           </div>
 
@@ -307,14 +307,14 @@ Mrs. Deepthi Raj,Assistant Professor,DSCE <br />
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl text-xl">
             
-              Dr. Devaraju,Associate Professor,DSCE<br />
-  Dr. Ganashree T S,Associate Professor,DSCE<br />
+              Dr. Devaraju, Associate Professor, DSCE<br />
+  Dr. Ganashree T S, Associate Professor, DSCE<br />
 
-   Mrs. Nagarathna,Assistant Professor,DSCE<br />
-   Mrs. Pushpa B R,Assistant Professor,DSCE<br />
-   Mr. Chetan Umadi,Assistant Professor,DSCE<br />
-   Ms. Anju Radhakrishna,Assistant Professor,DSCE<br />
-   Mr. Jayanth C,Assistant Professor,DSCE<br />
+   Mrs. Nagarathna, Assistant Professor, DSCE<br />
+   Mrs. Pushpa B R, Assistant Professor, DSCE<br />
+   Mr. Chetan Umadi, Assistant Professor, DSCE<br />
+   Ms. Anju Radhakrishna, Assistant Professor, DSCE<br />
+   Mr. Jayanth C, Assistant Professor, DSCE<br />
               </p>
           </div>
          
@@ -364,10 +364,10 @@ Mr. Harsha L<br />
               <p class="text-gray-500 dark:text-gray-400 text-xl">
             
              
-              Dr. Smitha Sasi,Associate Professor,DSCE <br />
-              Dr. Srividya B V,Associate Professor,DSCE <br />
-              Dr. Swetha Ravikanti,Assistant Professor,DSCE<br />
-              Mr. Sandeep K V,Assistant Professor,DSCE<br />
+              Dr. Smitha Sasi, Associate Professor, DSCE <br />
+              Dr. Srividya B V, Associate Professor, DSCE <br />
+              Dr. Swetha Ravikanti, Assistant Professor, DSCE<br />
+              Mr. Sandeep K V, Assistant Professor, DSCE<br />
 
               </p>
 
