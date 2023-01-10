@@ -61,7 +61,7 @@ const about = () => {
         
             <div class="mx-auto text-center">
                 <h1 class="text-4xl font-bold sm:text-6xl">
-                    <span class="text-transparent bg-clip-text text-[#650755]"> INTERNATIONAL CONFERENCE <br />ON <br />ADVANCES IN ENGINEERING AND TECHNOLOGY FOR INTELLIGENT SYSTEMS<br />(ICAETIS-2023) </span>
+                    <span class="text-transparent bg-clip-text text-blue-700"> INTERNATIONAL CONFERENCE <br />ON <br />ADVANCES IN ENGINEERING AND TECHNOLOGY FOR INTELLIGENT SYSTEMS<br />(ICAETIS-2023) </span>
                   
                 </h1>
                 <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
