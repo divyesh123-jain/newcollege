@@ -101,7 +101,7 @@ const Navbar = () => {
             onClick={handleNav}
             className='md:hidden'
           >
-            <AiOutlineMenu size={25} color="white" />
+            <AiOutlineMenu size={25} color="black" />
           </div>
         </div>
       </div>
@@ -159,7 +159,7 @@ const Navbar = () => {
                   Call For Papers
                 </li>
               </Link>
-              <Link href='/resume'>
+              <Link href='/Keynote'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Keynote
                 </li>

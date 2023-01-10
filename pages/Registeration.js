@@ -5,7 +5,7 @@ const Registeration = () => {
     <>
 
     <div className='bg-blue-100 pt-20 pb-16'>
-       <h3 className='text-3xl text-[red] mx-12'>Registration</h3>
+       <h3 className='text-3xl text-[black] font-bold mx-12'>Registration</h3>
       <p className='text-xl mx-12'>
         The corresponding author of the accepted paper is instructed to send final camera ready paper, copyright form and payment transfer
         acknowledgment screenshot to the conference email
@@ -16,10 +16,10 @@ const Registeration = () => {
       <ul>
         <li className='text-xl mx-12'>Improve the manuscript according to the reviewers&rsquo; comments</li>
         <li className='text-xl mx-12'>Pages are to be finally formatted according the Manuscript Style Information mentioned in the conference submission guidelines.</li>
-        <li className='text-xl mx-12'>Authors should send the source file [Doc/Docx/LaTex] along with final updated PDF file.</li>
+        <li className='text-xl mx-12'>Authors should send the source file [Doc/Docx] along with final updated PDF file.</li>
       </ul>
      
-      <h5 className='text-3xl mx-12 text-[red] pt-4'>Copyright Form</h5>
+      <h5 className='text-3xl mx-12 text-[black] font-bold pt-4'>Copyright Form</h5>
       <ul>
         <li className='text-xl mx-12'>
           In order for the paper to be published in ICAETIS-2023 conference proceedings, a signed Copyright Form must be submitted for each paper.
@@ -39,12 +39,12 @@ const Registeration = () => {
         be submitted to have the paper included in the conference proceedings.
       </p>
       
-      <h4 className='text-3xl mx-12 text-[red]'>Registration Fee</h4>
+      <h4 className='text-3xl mx-12 text-[black] font-bold'>Registration Fee</h4>
       <p className='text-xl mx-12'>All the registration fees for UG/PG Students,Research Scholar,Faculty and Industry people are given in this Google Form </p>
 <a href="https://forms.gle/QK1GykfyjiQc74r16"><span className=' mx-12 text-xl text-[red]'>ICAETIS Registration Form</span> </a> 
       <p className='text-xl mx-12'>After the successful payment transfer. Take a screenshot of the transaction and save it as a PNG, IMG file.</p>
      
-      <h5 className='text-3xl mx-12 text-[red]'>Presentation Guidelines</h5>
+      <h5 className='text-3xl mx-12 text-[black] font-bold'>Presentation Guidelines</h5>
       <p className='text-xl mx-12'>
         After submitting the registration documents, the paper will be added in the ICAETIS-2023 Conference Presentation Schedule, which will be
         uploaded in the Conference Website Homepage and also it will be sent to the author via email 7-10 days before the conference start date.

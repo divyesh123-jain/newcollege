@@ -6,12 +6,12 @@ import logo5 from '../Images/logo5.jpeg';
 import approved from '../Images/approved.png';
 const Callforpapers = () => {
   return (<>
-  <div className='bg-gray-400 pt-20'>
-    <div className='text-3xl pt-3 text-orange-300 text-center'>
+  <div className='bg-purple-100 pt-20'>
+    <div className='text-5xl font-bold pt-3 text-black text-center'>
     Call For Papers
       
     </div>
-    <p className='text-3xl pt-3 text-center text-white'>Papers that are submitted will be subject to plagiarism checks and blind reviews.<br />
+    <p className='text-3xl pt-3 text-center font-bold text-black'>Papers that are submitted will be subject to plagiarism checks and blind reviews.<br />
 All accepted papers under this conference will be published in SCOPUS Indexed Journals/Web of Science /UGC Care II<br />
 *Upon Selection of the papers Article Processing Charges will be applicable for publishing papers in in SCOPUS Indexed Journals/Web of Science /UGC Care II<br /></p>
 
@@ -20,7 +20,7 @@ All accepted papers under this conference will be published in SCOPUS Indexed Jo
                <div className='relative flex justify-center  m-8 overflow-hidden  rounded-lg'>
                <img  className='rounded-full' src="https://ieeeaccess.ieee.org/wp-content/uploads/2014/10/scopus-transparent.png" alt='' />
                 
-               <Image  className='rounded-3xl mx-7 w-[20vh] text-justify '  src={approved} alt="" />
+               <Image className='rounded-3xl mx-7 w-[20vh] text-justify '  src={approved} alt="" />
                 <img  className='rounded-full w-[20vh]' src="https://imgs.search.brave.com/ILEEqeGjun7QFFTHzvFd0t5Qt-mifW3NmD0s3O4_Klw/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/YWFjLmFjLmlsL2xp/YnJhcnkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvd2Vi/X29mX3NjaWVuY2Vf/bG9nby5naWY.gif" alt='' />
                </div>
               
@@ -32,7 +32,7 @@ All accepted papers under this conference will be published in SCOPUS Indexed Jo
 
 
 <h5 className='text-center text-3xl font-extrabold'>Track - 1</h5>
-<li className='text-xl font-semibold'>Intelligent systems for Communication</li>
+<li className='text-xl font-semibold'>Intelligent systems for <span className='mx-7'>Communication</span> </li>
 <li className='text-xl font-semibold'>Smart Intelligent Communication System and Their Design</li>
 <li className='text-xl font-semibold'>VLSI, HDL, Chip Level Design, CAD Technology and Simulation</li>
 <li className='text-xl font-semibold'>Satellite and Space Communication</li>

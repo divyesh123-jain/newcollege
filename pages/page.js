@@ -23,7 +23,7 @@ const Page = () => {
 <div className='flex-1 text-justify'>
 <div>
 <h1 className='mx-32 md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>
-<p className=' text-xl align items-center '>Dayananda Sagar College of Engineering (DSCE) is approved by All India Council for Technical Education (AICTE), Govt. of India and affiliated to Visvesvaraya Technological University. It has widest choice of engineering branches having 18 Under Graduate courses & 9 Post Graduate courses. In addition, it has 20 Research Centres in different branches of Engineering catering to research scholars for obtaining Ph. D under VTU in which 116 candidates have registered for Ph.D. program. 
+<p className=' text-xl align items-center sm:text-justify '>Dayananda Sagar College of Engineering (DSCE) is approved by All India Council for Technical Education (AICTE), Govt. of India and affiliated to Visvesvaraya Technological University. It has widest choice of engineering branches having 18 Under Graduate courses & 9 Post Graduate courses. In addition, it has 20 Research Centres in different branches of Engineering catering to research scholars for obtaining Ph. D under VTU in which 116 candidates have registered for Ph.D. program. 
 DSCE is accredited by National Assessment and Accreditation Council (NAAC) with ‘A’ Grade and is  ISO 9001:2015 Certified. 
 DSCE had the privilege of receiving a National Mission Project from Department of Science and Technology (DST) to implement “Indigenous Magnetic Resonance Imaging (IMRI). Institution is recognized by DSIR – Department of Scientific and Industrial Research. 
 </p>

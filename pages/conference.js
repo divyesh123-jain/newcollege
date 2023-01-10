@@ -4,7 +4,7 @@ const conference = () => {
   return (<>
 <div className='bg-gray-300  text-black pt-20'>
 <div>
-    <p className='text-2xl text-center font-bold text-[black]'>Note:- Mode of Conference conduction wiil be in Hybrid Mode</p>
+    <p className='text-2xl text-center font-bold text-[black]'>Note:- Mode of Conference conduction will be in Hybrid Mode</p>
     <p className= 'text-2xl text-center font-bold text-[black]'>Conference Date : 16th,17th and 18th May 2023</p>
 </div>
 

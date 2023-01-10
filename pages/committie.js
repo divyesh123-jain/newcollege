@@ -18,7 +18,7 @@ const committie = () => {
       <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
           <div>
               <div className="flex justify-center items-center mb-4  rounded-full dark:bg-primary-900">
-                  <Image src={chairman} alt=""  className='w-[60vh]'/>
+                  <Image src={chairman} alt=""  className='w-[40vh]'/>
               </div>
               <h3 className="mb-2 text-xl font-bold dark:text-white"> Chairman</h3>
               <div className="border-b-4 border-indigo-500 ..."></div>
@@ -27,7 +27,7 @@ const committie = () => {
           </div>
           <div>
               <div className="flex justify-center items-center  mb-4 w-400 h-400  rounded-full dark:bg-primary-900">
-              <Image src={vc} alt=""  className='w-[100vh]'/>
+              <Image src={vc} alt=""  className='w-[49vh]'/>
               </div>
               <h3 className="mb-2 text-xl font-bold dark:text-white">Vice-Chairman</h3>
               <div className="border-b-4 border-indigo-500 ..."></div>
@@ -56,7 +56,7 @@ const committie = () => {
 
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Mr.Galiswamy , <br />
+              Galiswamy , <br />
               Secretary, <br />
               Dayananda Sagar College of Engineering,  <br />
                <br />
@@ -73,7 +73,7 @@ const committie = () => {
               Tintisha H Sagar , <br />
               Joint Secretary,  <br />
 Dayananda Sagar College of Engineering,   <br />
-SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111.  <br />
+
               </p>
           </div>
 
@@ -87,7 +87,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111.  <br />
               Natasha H Sagar, <br />
               Joint Secretary, <br />
 Dayananda Sagar College of Engineering,  <br />
-SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
+
               </p>
           </div>
 
@@ -101,7 +101,21 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               Nishanth H Sagar <br />
               Joint Secretary<br /> 
 Dayananda Sagar College of Engineering, <br /> 
-SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
+
+              </p>
+          </div>
+
+          <div>
+              <div class="flex justify-center items-center mb-4 w-400 h-400 rounded-full dark:bg-primary-900">
+                  
+              </div>
+              <h3 class="mb-2 text-xl font-bold dark:text-white">Joint Secretary</h3>
+              <div class="border-b-4 border-indigo-500 ..."></div>
+              <p class="text-gray-500 dark:text-gray-400 text-xl">
+              Rohan Prem Sagar <br />
+              Joint Secretary<br /> 
+Dayananda Sagar College of Engineering, <br /> 
+
               </p>
           </div>
           </div>
@@ -129,7 +143,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               Dr. B G Prasad , <br />
               Principal, <br />
               Dayananda Sagar College of Engineering,  <br />
-              SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
+            
               </p>
           </div>
 
@@ -143,7 +157,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               Dr. Ramaraju H , <br />
 Vice Principal,  <br />
 Dayananda Sagar College of Engineering,   <br />
-SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111.  <br />
+
               </p>
           </div>
 
@@ -157,7 +171,7 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111.  <br />
               Dr. Suma V , <br />
 Vice Principal, <br />
 Dayananda Sagar College of Engineering,  <br />
-SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
+
               </p>
           </div>
 
@@ -171,10 +185,11 @@ SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
               Dr. Anju V kulkarni <br />
 Professor & HOD,ETE Department<br /> 
 Dayananda Sagar College of Engineering, <br /> 
-SHAVIGE MALLESHWARA HILLS, KUMARSWAMY LAYOUT, BANGALORE - 560 111. <br />
+
               </p>
           </div>
           </div>
+          
      
 
 </div>

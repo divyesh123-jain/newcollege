@@ -23,7 +23,7 @@ const Dsce = () => {
 {/* Image section */}
 
 <div className='mx-7 flex-1 pt-5'>
-<img src="https://imgs.search.brave.com/CaiYJuEufBUTdCuS2_ibgCEWc2mKv4ScR358DrU39sw/rs:fit:560:315:1/g:ce/aHR0cHM6Ly9xcGgu/ZnMucXVvcmFjZG4u/bmV0L21haW4tcWlt/Zy1hZGJkMGU3MDA2/MWRmMjA1Yjg0MDMw/NDk5M2NmZjQyZQ"  alt="" className='w-100 h-full  object-cover  '/>
+<img  src="https://imgs.search.brave.com/CaiYJuEufBUTdCuS2_ibgCEWc2mKv4ScR358DrU39sw/rs:fit:560:315:1/g:ce/aHR0cHM6Ly9xcGgu/ZnMucXVvcmFjZG4u/bmV0L21haW4tcWlt/Zy1hZGJkMGU3MDA2/MWRmMjA1Yjg0MDMw/NDk5M2NmZjQyZQ"  alt="" className='w-100 h-full  object-cover  '/>
 </div>
 
 {/* Text section */}
@@ -47,16 +47,17 @@ const Dsce = () => {
 {/* Image section */}
 
 <div className='mx-7 flex-1 pt-5'>
-<img src="https://imgs.search.brave.com/6rfGgaTsbRzE8XYv_emugNTQ7rxNm98MEFW4I73RGak/rs:fit:800:273:1/g:ce/aHR0cHM6Ly9jaGhz/LmZyZXNub3N0YXRl/LmVkdS9zb2NpYWwt/d29yay9pbWFnZXMv/aWNvbi1pbWFnZXMv/bWlzc2lvbi12aXNp/b24uZndfLnBuZw"  alt="" className='w-100 h-full  object-cover  '/>
+<img  src="https://imgs.search.brave.com/6rfGgaTsbRzE8XYv_emugNTQ7rxNm98MEFW4I73RGak/rs:fit:800:273:1/g:ce/aHR0cHM6Ly9jaGhz/LmZyZXNub3N0YXRl/LmVkdS9zb2NpYWwt/d29yay9pbWFnZXMv/aWNvbi1pbWFnZXMv/bWlzc2lvbi12aXNp/b24uZndfLnBuZw"  alt="" className='w-100 h-full  object-cover  '/>
 </div>
 
 {/* Text section */}
 
 <div className='flex-1 justify-between'>
 <div>
-<h1 className='mx-32 md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>
+<h1 className='mx-32 md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>VISION:
 <p className=' text-xl font-bold  text-justify'>To disseminate quality technical education for achieving Academic Excellence through focused research encompassing Mobile, Sensor, and Telecommunication networks with a thrust on Space Communication and Telecommunication Standards. 
 </p>
+MISSION:
 <p className='text-xl  text-justify'>By disseminating the knowledge of devices, systems, and technologies that are impacting the Telecommunication field.               
  By educating students towards multidisciplinary practices of Telecommunication industry and standards for a successful career.  
 By inculcating research attitude among graduates through continuous life long learning related to Telecommunication and its allied domain</p>
