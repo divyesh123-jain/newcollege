@@ -3,7 +3,7 @@ import Image from 'next/image';
 import dsi from '../Images/dsi.png'
 import logo1 from '../Images/logo1.png'
 import logo2 from '../Images/logo2.jpg'
-import spense from '../Images/spense.jpeg'
+import spense from '../Images/spense2.png'
 
 
 
@@ -34,7 +34,7 @@ const Footer = () => {
                 <div className='relative md:flex justify-center  m-8 overflow-hidden  rounded-lg'>
                 <Image className='rounded-full md:w-[20vh] sm:w-[10vh] md:mx-1  ' src={logo1} alt="" />
                 <Image className='rounded-full md:w-[20vh] md:mx-1' src={logo2} alt="" />
-                <Image className='rounded-full md:w-[20vh] md:mx-1' src={spense} alt="" />
+                <img className='rounded-3xl md:w-[20vh] md:mx-1' src="https://www.spense.money/static/media/spense_logo.3b8db6941e716d944932.png" alt="" />
                 </div>
                
                 </div>

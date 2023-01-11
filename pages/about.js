@@ -6,7 +6,7 @@ import conference from '../Images/conference1.png'
 import logo3 from '../Images/logo3.jpeg';
 import logo4 from '../Images/logo4.jpeg';
 import logo5 from '../Images/logo5.jpeg';
-import approved from '../Images/approved.png';
+import approved from '../Images/approved.webp';
 
 const about = () => {
   return (
