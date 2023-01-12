@@ -58,9 +58,9 @@ const Dsce = () => {
 <p className=' text-xl font-bold md:mx-13  text-justify'>To disseminate quality technical education for achieving Academic Excellence through focused research encompassing Mobile, Sensor, and Telecommunication networks with a thrust on Space Communication and Telecommunication Standards. 
 </p>
 MISSION:
-<p className='text-xl  text-justify'>●By disseminating the knowledge of devices, systems, and technologies that are impacting the Telecommunication field. <br />           
-●By educating students towards multidisciplinary practices of Telecommunication industry and standards for a successful career.  
-●By inculcating research attitude among graduates through continuous life long learning related to Telecommunication and its allied domain</p>
+<p className='text-xl  text-justify'>●By disseminating the knowledge of devices, systems, and <span className='mx-6'> technologies that are impacting the Telecommunication field.</span> <br />           
+●By educating students towards multidisciplinary practices of <span className='mx-5'> Telecommunication industry and standards for a successful </span> <span className='mx-5'>  career. </span><br />
+●By inculcating research attitude among graduates through <span className='mx-5'> continuous life long learning related to Telecommunication and </span> <span className='mx-5'> its allied domain </span></p>
 
 </h1>
 </div>

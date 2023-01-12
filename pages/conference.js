@@ -98,11 +98,11 @@ This Conference focuses on bringing together people who share a common disciplin
 <div>
 <h1 className='md:mx-20  md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>
 <ul className=' text-xl  text-justify'>
-<li className='pt-2'> ●Maximize learning by facilitating discussions and learning sessions by using various presentation formats: in-person presentations, poster presentations, virtual presentations, workshops. This is a motivational factor as one aspires to overcome fears and achieve one’s dreams.</li>
-<li className='pt-2'> ●Networking and idea-sharing amongst faculty/research scholars/students and other participants in the similar field of studies all around the world to share technological breakthroughs. Enable both formal and informal opportunities for networking for future collaborations</li>
-<li className='pt-2'> ●Promotion of research presented at the event reaches as many people as possible through open-access publishing throughout the network and various marketing channels</li>
-<li className='pt-2'> ●The personal or professional development of academicians,  as it  is vital to find out whats new in ones own  field of study for progressing in an academic discipline</li>
-<li className='pt-2'> ●Socializing leading  to acquiring  different views and dispositions, edifies the way of thinking in the defined field of study and capturing some nuances on different aspects and solutions which exist on the same issues.  </li>
+<li className='pt-2 '> ●Maximize learning by facilitating discussions and learning <span className='mx-4'> sessions by using various presentation formats: in-</span>  <span className='mx-4'>person presentations, poster presentations, virtual </span> <span className='mx-4'> presentations, workshops. This is a motivational factor as</span> <span className='mx-4'> one aspires to overcome fears and achieve one’s dreams.</span></li>
+<li className='pt-2'> ●Networking and idea-sharing amongst faculty/research <span className='mx-4'>  scholars/students and other participants in the similar </span>  <span className='mx-4'> field of studies all around the world to share</span> <span className='mx-4'> technological breakthroughs. Enable both formal and</span> <span className='mx-4'>informal opportunities for networking for future </span> <span className='mx-4'>collaborations</span> </li>
+<li className='pt-2'> ●Promotion of research presented at the event reaches as  <span className='mx-4'>  many people as possible through open-access publishing </span>  <span className='mx-4'>   throughout the network and various marketing channels</span></li>
+<li className='pt-2'> ●The personal or professional development of academicians, <span className='mx-4'>   as it  is vital to find out whats new in ones own  field </span> of <span className='mx-4'>   study for progressing in an academic discipline</span></li>
+<li className='pt-2'> ●Socializing leading  to acquiring  different views and <span className='mx-4'>  dispositions, edifies the way of thinking in the defined </span> <span className='mx-4'>  field of study and capturing some nuances on different </span> <span className='mx-4'> aspects and solutions which exist on the same issues. </span> </li>
 
 </ul>
 

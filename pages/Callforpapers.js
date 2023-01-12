@@ -3,7 +3,8 @@ import Image from 'next/image';
 import logo3 from '../Images/logo3.jpeg';
 import logo4 from '../Images/logo4.jpeg';
 import logo5 from '../Images/logo5.jpeg';
-import approved from '../Images/approved.png';
+import approved from '../Images/approved.webp';
+
 const Callforpapers = () => {
   return (<>
   <div className='bg-gradient-to-r from-purple-100 to-blue-200 pt-20'>
