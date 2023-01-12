@@ -13,7 +13,7 @@ const committie = () => {
           <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-[#650755] dark:text-white">Committee</h2>
 
           <div className="border-b-4 border-indigo-500 ..."></div>
-          <h2 className="mb-4 text-5xl tracking-tight font-extrabold pt-3 text-[#650755] dark:text-white"> Chief Patrons</h2>
+          <h2 className="mb-4 text-5xl tracking-tight font-extrabold pt-7 text-[#650755] dark:text-white"> Chief Patrons</h2>
       </div>
       <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
           <div>
@@ -210,25 +210,25 @@ Dayananda Sagar College of Engineering <br />
               <h3 class="mb-2 text-xl font-bold dark:text-white">Advisory Board Committee</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Dr. C.P.S Prakash, Former Principal, DSCE <br />
+       
 
-Dr. Xiao-Zhi Gao, University of Eastern Finland, Finland <br />
-Dr. Geetha Prakash, Global Program Officer, Tooople Technologies Pte Ltd, Singapore <br />
-Dr. Amit Swamy,Emirates College of Technology , Abudhabi, UAE <br />
-Dr. Ekant Sharma, Faculty,Dept of ECE, IIT Roorkee <br />
-Mr. Padmanaban Kalyanaraman, CEG - Intel  <br />
-Dr. Bhanu Prashanth Professor  Department of Medical Electronics, BMS College of Engineering, Bangalore <br />
-Dr. Swaminathan, Faculty, Dept of EEE, IIT Indore <br />
-Mr. Paramananda Jena, Scientist, LRDE DRDO, Bangalore <br />
-Dr. NC Shivaprakash, Professor, Department of Instrumentation, IISc Bangalore  <br />
-Mrs. Jailaxmi, Scientist, LRDE, Bangalore <br /> 
-Dr. G. S Mani, Ex Director, Defence Institute of Advanced Technology, Pune <br />
-Dr. Sajal Das, Professor, Missouri University of Science and Technology, US <br />
-Dr. Y. M. Jayaraj, The Chief Advisor to Hon’ble Chancellor <br />
-Dr. D.Y. Patil Vidyapeeth <br />
+              Dr. Xia-zhi Gao, University of Eastern Finland, Finland<br />
+Dr. Sajal Das, Professor, Missouri University of Science and Technology, US<br />
+Dr. Amit Swamy, Emirates College of Technology, Abudhabi, UAE<br />
 Dr. D. P Agarwal, ex Chairman of the Union Public Service Commission of India.<br />
+Dr. Ekant Sharma, Faculty, Dept of ECE, IIT Roorkee<br />
+Dr. Swaminathan, Faculty, Dept of EEE, IIT Indore<br />
+Dr. G. S Mani, Ex Director, Defence Institute of Advanced Technology, Pune<br />
+Dr. Y. M. Jayaraj, The Chief Advisor to Hon’ble Chancellor<br />
+Dr. NC Shivaprakash, Professor, Department of Instrumentation, IISc Bangalore<br />
+Mr. Paramananda Jena, Scientist, LRDE DRDO, Bangalore<br />
+Mrs. Jailaxmi, Scientist, LRDE, Bangalore<br />
+Mr. Padmanaban Kalyanaraman, CEG - Intel<br />
 Dr. R. K. Jain, Director, JSPM, RSCOE, Pune<br />
-Dr. A R Aswatha,Professor, Head, Dept of Medical Electronics <br />
+Dr. Geetha Prakash, Global Program Officer, Tooople Technologies Pte Ltd, Singapore<br />
+Dr KNB Murthy, Vice Chancellor, DSU<br />
+Dr. C.P.S Prakash, Former Principal, DSCE<br />
+Dr. A R Aswatha,Professor, Head, Dept of Medical Electronics<br />
               </p>
           </div>
 

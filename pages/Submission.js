@@ -6,13 +6,16 @@ const Submission = () => {
     <div className=''>
     <div className='bg-gradient-to-r from-blue-100 to-blue-200 pt-20 pb-16'>
         <h1 className='text-3xl  text-[#650755] font-bold mx-12' >Submission</h1>
+        <br />
      
       <p className='text-xl pt-3 mx-12'> ● Access ICAETIS-2023 Call for Papers to know more about the theme of the 2023 conference event.</p>
     <br />
  <p  className='text-xl mx-12'>● The submitted paper must report a substantial advance in an area of computational vision that is both novel and significant.
 
 </p>
+  <br />
 <h1 className='text-3xl mx-12 text-[#650755] font-bold pt-5'>Important Dates</h1>
+<br />
 
 <p className='text-xl mx-12 pt-3 text-justify'>
   
@@ -24,9 +27,11 @@ const Submission = () => {
 <br />
 ● Registration-Before March 15th 2023<br />
 <br />
+  <br />
 </p>
       
       <p  className='text-3xl mx-12 text-[#650755] font-bold pt-2'>Manuscript Style Information:</p>
+      <br />
       <p  className='text-xl pt-3 mx-12'>
       ● Papers must be written in English and use standard ICAETIS-2023 conference template.<br />
       <br />
@@ -41,13 +46,16 @@ const Submission = () => {
         <br />
         ● The submitted manuscript (PDF file) should be text-searchable. Any submission that does not meet this requirement may be returned without
           review.
-         
+         <br />
+         <br />
        
 
       </p>
       
       <p  className='text-3xl mx-12 text-[#650755] font-bold pt-2 '>General Instructions:</p>
-      <p  className='text-xl mx-12 pt-3'><br />
+    
+      <p  className='text-xl mx-12 pt-3'>
+      <br />
       ● Only original papers that have not been published or submitted for publication elsewhere will be considered.<br />
       <br />
       ● Submissions should contain work that is substantially complete, with specific reference to new results and sufficient details included to
@@ -64,10 +72,11 @@ const Submission = () => {
         ● Accepted and registered papers will be published in the ICAETIS-2023 proceedings and after receiving the official paper acceptance letter,
           one of the authors <span className='mx-4' >  is required to attend the conference to make a full presentation of the work.</span>
         <br />
-        <br />
+       
       </p>
      
       <p  className='text-3xl mx-12 text-[#650755] font-bold pt-5'>Plagiarism Policy:</p>
+      <br />
       <p className='text-xl mx-12 pt-2'>
        
       ● All papers submitted to ICAETIS-2023 will be checked for plagiarism. If a paper results with a high similarity (including

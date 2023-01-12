@@ -18,8 +18,9 @@ const Registeration = () => {
         <li className='text-xl mx-12 pt-4'>● Pages are to be finally formatted according the Manuscript Style Information mentioned in the conference submission guidelines.</li>
         <li className='text-xl mx-12 pt-4'>● Authors should send the source file [Doc/Docx] along with final updated PDF file.</li>
       </ul>
-     
+      <br />
       <h5 className='text-3xl mx-12 text-[#650755]  font-bold pt-4'>Copyright Form</h5>
+      <br />
       <ul>
         <li className='text-xl mx-12 pt-4'>
         ● In order for the paper to be published in ICAETIS-2023 conference proceedings, a signed Copyright Form must be submitted for each paper.
@@ -38,13 +39,16 @@ const Registeration = () => {
       ● Note: No paper can be published in the proceedings without being accompanied by a completed Copyright Transfer Form. The completed form must
       be <span className='mx-4'> submitted to have the paper included in the conference proceedings</span> be submitted to have the paper included in the conference proceedings.
       </p>
-      
+      <br />
       <h4 className='text-3xl mx-12 text-[#650755]  font-bold pt-3'>Registration Fee</h4>
+      <br />
       <p className='text-xl mx-12 pt-4'>● All the registration fees for UG/PG Students,Research Scholar,Faculty and Industry people are given in this Google Form </p>
 <a href="https://forms.gle/QK1GykfyjiQc74r16"><span className=' mx-16 text-xl text-[red]'>ICAETIS Registration Form</span> </a> 
       <p className='text-xl mx-12 pt-4'>● After the successful payment transfer. Take a screenshot of the transaction and save it as a PNG, IMG file.</p>
+      <br />
      
       <h5 className='text-3xl mx-12 text-[#650755]  font-bold pt-3'>Presentation Guidelines</h5>
+      <br />
       <p className='text-xl mx-12 pt-4'>
       ● After submitting the registration documents, the paper will be added in the ICAETIS-2023 Conference Presentation Schedule, which will be
         uploaded in the <span className='mx-4'>Conference Website Homepage and also it will be sent to the author via email 7-10 days before the conference start date.</span> 
