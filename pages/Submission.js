@@ -10,7 +10,7 @@ const Submission = () => {
      
       <p className='text-xl pt-3 mx-12'> ● Access ICAETIS-2023 Call for Papers to know more about the theme of the 2023 conference event.</p>
     <br />
- <p  className='text-xl mx-12'>● The submitted paper must report a substantial advance in an area of computational vision that is both novel and significant.
+ <p  className='text-xl mx-12'>● The submitted paper must report a substantial advance in an area of intelligent systems that is both novel and significant.
 
 </p>
   <br />

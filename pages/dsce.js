@@ -13,7 +13,7 @@ const Dsce = () => {
       <div className='flex-1 justify-between'>
 <div>
 
-<p className=' text-xl   font-bold text-justify '>Department of Telecommunication Engineering started in 1991 prides in its academic achievements by bagging ranks consecutively. Off late the nomenclature has been changed to “Electronics and Telecommunication Engineering”. The department has state-of-the-art laboratories which include equipment for carrying out research in the recent trends like communication and Networking The Department offers B. E & M. Tech Courses. It also has a R&D center recognized by VTU, Belagavi leading to Ph. D. The department has been accredited by National Board of Accreditation (NBA) in Tier 1 category.
+<p className=' text-xl   font-bold text-justify '>Department of Telecommunication Engineering started in 1991 prides in its academic achievements by bagging ranks consecutively. Off late the nomenclature has been changed to “Electronics and Telecommunication Engineering”. The department has state-of-the-art laboratories which include equipment for carrying out research in the recent trends like Communication and Networking. The Department offers B. E & M. Tech Courses. It also has a R&D center recognized by VTU, Belagavi leading to Ph. D. The department has been accredited by National Board of Accreditation (NBA) in Tier 1 category.
 </p>
 
 

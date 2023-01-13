@@ -3,7 +3,7 @@ const conference = () => {
   return (<>
 <div className=' bg-gradient-to-r from-blue-300 to-white text-black pt-20'>
 <div>
-    <p className='text-2xl text-center font-bold text-[black]'>Note:- Mode of Conference conduction will be in Hybrid Mode</p>
+    <p className='text-2xl text-center font-bold text-[black]'>Note:- Conference conduction will be in Hybrid Mode</p>
     <p className= 'text-2xl text-center font-bold text-[black]'>Conference Date : 16th,17th and 18th May 2023</p>
 </div>
 
@@ -39,7 +39,7 @@ const conference = () => {
 <div className='flex-1 mx-4'>
 <div>
 <h1 className='md:mx-20 md:text-5xl text-2xl md:leading-normal leading-10 font-bold '>
-<p className='text-xl font-bold md:mx-18  text-justify'>The International Conference on Advances in Engineering and Technology for Intelligent systems (ICAETIS-2023), is scheduled to take place on the 16th - 18th May 2023, in the “Silicon Valley of India”, “The IT capital of India”, Bangalore, Karnataka, India is an international platform for all sorts of researchers and scholars, practitioners, academicians, students and scientists, to discuss interdisciplinary research and training in Engineering and Technology. This conference is also intended to serve as a comprehensive platform for researchers, decision-makers, educators, practitioners, and others, to present and discuss the latest discoveries, drifts and interests, as well as practical difficulties and resolutions in sectors involving Intelligent Systems.
+<p className='text-xl font-bold md:mx-18  text-justify'>The International Conference on Advances in Engineering and Technology for Intelligent systems (ICAETIS-2023), is scheduled to take place during 16th - 18th May 2023, in the “Silicon Valley of India”, “The IT capital of India”, Bangalore, Karnataka, India is an international platform for all sorts of researchers and scholars, practitioners, academicians, students and scientists, to discuss interdisciplinary research and training in Engineering and Technology. This conference is also intended to serve as a comprehensive platform for researchers, decision-makers, educators, practitioners, and others, to present and discuss the latest discoveries, drifts and interests, as well as practical difficulties and resolutions in sectors involving Intelligent Systems.
 </p>
 
 </h1>
