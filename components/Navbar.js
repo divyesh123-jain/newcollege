@@ -10,6 +10,7 @@ import { BsFillPersonLinesFill } from 'react-icons/bs';
 
 
 const Navbar = () => {
+  
   const [nav, setNav] = useState(false);
   const [shadow, setShadow] = useState(false);
   const [navBg, setNavBg] = useState('#ecf0f3');

@@ -13,7 +13,7 @@ const Callforpapers = () => {
       
     </div>
     <p className='text-xl pt-3 text-center font-bold text-black'>Papers that are submitted will be subject to plagiarism checks and blind reviews.<br />
-All accepted papers under this conference will be published in SCOPUS Indexed/Web of Science /UGC Care II Journals<br />
+All accepted papers under this conference will be published in SCOPUS Indexed/Web of Science /UGC Care || Journals<br />
 *Upon Selection of the papers Article Processing Charges will be applicable for publishing papers in in SCOPUS Indexed Journals/Web of Science /UGC Care II<br /></p>
 
 <div>

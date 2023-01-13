@@ -10,7 +10,7 @@ const committie = () => {
     <section className=" dark:bg-gray-900">
   <div className="py-8 px-4  max-w-screen-xl sm:py-16 lg:px-6 mx-7">
       <div className="max-w-screen-md mb-8 lg:mb-16">
-          <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-[#650755] dark:text-white">Committee</h2>
+          <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-[#650755] dark:text-white">Committee`s</h2>
 
           <div className="border-b-4 border-indigo-500 ..."></div>
           <h2 className="mb-4 text-5xl tracking-tight font-extrabold pt-7 text-[#650755] dark:text-white"> Chief Patrons</h2>
