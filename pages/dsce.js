@@ -55,12 +55,12 @@ const Dsce = () => {
 <div className='flex-1 mx-20  justify-between'>
 <div>
 <h1 className='  md:text-3xl  pb-40 md:mx-19 text-2xl md:leading-normal leading-10 font-bold '>VISION:
-<p className=' text-xl font-bold md:mx-13  text-justify'>To disseminate quality technical education for achieving Academic Excellence through focused research encompassing Mobile, Sensor, and Telecommunication networks with a thrust on Space Communication and Telecommunication Standards. 
+<p className=' text-xl font-bold md:mx-13  text-justify'>To disseminate quality technical education for achieving Academic Excellence through focused research and innovation encompassing contemporary  technologies  trends in  electronic devices, telecommunication systems and standards for societal needful applications, of country in specific and global at broader perspective. 
 </p>
 MISSION:
-<p className='text-xl  text-justify'>●By disseminating the knowledge of devices, systems, and <span className='mx-6'> technologies that are impacting the Telecommunication field.</span> <br />           
-●By educating students towards multidisciplinary practices of <span className='mx-5'> Telecommunication industry and standards for a successful </span> <span className='mx-5'>  career. </span><br />
-●By inculcating research attitude among graduates through <span className='mx-5'> continuous life long learning related to Telecommunication and </span> <span className='mx-5'> its allied domain </span></p>
+<p className='text-xl  text-justify'>●By adopting quality curriculum design, associated with standard <span className='mx-4'>teaching learning process and assessment techniques; on par </span> <span className='mx-4'>with standards for portability of graduates globally.</span> <br />           
+●By educating students towards contemporary technologies <span className='mx-5'>through consistent interaction with the leading industries based </span> <span className='mx-5'> on the current socio-economic conditions of the society.    </span><br />
+●By inculcating research attitude among graduates through lifelong <span className='mx-4'>learning in pursuit of academic excellence and career </span> <span className='mx-4'> enrichment. </span></p>
 
 </h1>
 </div>

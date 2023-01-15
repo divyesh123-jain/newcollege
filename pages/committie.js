@@ -225,10 +225,11 @@ Mr. Paramananda Jena, Scientist, LRDE DRDO, Bangalore<br />
 Mrs. Jailaxmi, Scientist, LRDE, Bangalore<br />
 Dr. R. K. Jain, Director, JSPM, RSCOE, Pune<br />
 Dr. Geetha Prakash, Global Program Officer, Tooople Technologies Pte Ltd, Singapore<br />
+Dr Suresh, Professor, Head, Dept ECE, Tumkur<br />
 Dr. K.N.B Murthy, Vice Chancellor, DSU<br />
 Dr. M. Ravishankar, Principal, DSATM<br />
 Dr. C.P.S Prakash, Former Principal, DSCE<br />
-Dr. A. R. Aswatha, Professor, Head, Dept of Medical Electronics<br />
+Dr. A. R. Aswatha, Professor, Head, Dept of Medical Electronics, DSCE<br />
 
 
               </p>
