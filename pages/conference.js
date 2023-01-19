@@ -11,13 +11,13 @@ const conference = () => {
 
 <p className='text-xl pt-3y  text-center'>
   
-   Paper Submission-February 10th 2023<br />
+Paper Submission-February 20th 2023<br />
   
-    Acceptance Notification-February 27th 2023<br />
+  Acceptance Notification-March 1st 2023<br />
 
-    Camera Ready Submission-March 5th 2023<br />
+  Camera Ready Submission-March 10th 2023<br />
 
-  Registration-Before March 15th 2023<br />
+Registration-Before March 15th 2023<br />
 
 </p>
 

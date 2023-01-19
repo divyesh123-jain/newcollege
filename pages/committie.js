@@ -98,7 +98,7 @@ const committie = () => {
               <h3 class="mb-2 text-xl font-bold dark:text-white">Joint Secretary</h3>
               <div class="border-b-4 border-indigo-500 ..."></div>
               <p class="text-gray-500 dark:text-gray-400 text-xl">
-              Nishanth H Sagar <br />
+              Nishan H Sagar <br />
               Joint Secretary<br /> 
               Dayananda Sagar Instutions, Bangalore <br /> 
 
