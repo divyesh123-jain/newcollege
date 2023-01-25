@@ -58,7 +58,7 @@ const committie = () => {
               <p class="text-gray-500 dark:text-gray-400 text-xl">
               Galiswamy <br />
               Secretary <br />
-              Dayananda Sagar Instutions, Bangalore <br />
+              Dayananda Sagar Institutions, Bangalore <br />
                <br />
               </p>
           </div>
@@ -72,7 +72,7 @@ const committie = () => {
               <p class="text-gray-500 dark:text-gray-400 text-xl">
               Tintisha H Sagar  <br />
               Joint Secretary <br />
-              Dayananda Sagar Instutions, Bangalore  <br />
+              Dayananda Sagar Institutions, Bangalore  <br />
 
               </p>
           </div>
@@ -86,7 +86,7 @@ const committie = () => {
               <p class="text-gray-500 dark:text-gray-400 text-xl">
               Natasha H Sagar <br />
               Joint Secretary <br />
-              Dayananda Sagar Instutions, Bangalore <br />
+              Dayananda Sagar Institutions, Bangalore <br />
 
               </p>
           </div>
@@ -100,7 +100,7 @@ const committie = () => {
               <p class="text-gray-500 dark:text-gray-400 text-xl">
               Nishan H Sagar <br />
               Joint Secretary<br /> 
-              Dayananda Sagar Instutions, Bangalore <br /> 
+              Dayananda Sagar Institutions, Bangalore <br /> 
 
               </p>
           </div>
@@ -114,7 +114,7 @@ const committie = () => {
               <p class="text-gray-500 dark:text-gray-400 text-xl">
               Rohan Prem Sagar <br />
               Joint Secretary<br /> 
-              Dayananda Sagar Instutions, Bangalore <br /> 
+              Dayananda Sagar Institutions, Bangalore <br /> 
 
               </p>
           </div>
