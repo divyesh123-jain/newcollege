@@ -70,11 +70,11 @@ const about = () => {
 
                <div className='sm:mx-36'>
                
-                <div className='relative md:flex justify-center  m-8 overflow-hidden  rounded-lg'>
-                <img  className='rounded-full' src="https://ieeeaccess.ieee.org/wp-content/uploads/2014/10/scopus-transparent.png" alt='' />
+                <div className='relative md:flex flex justify-center   m-8 overflow-hidden  rounded-lg'>
+                <img  className='rounded-full md:w-[20vh] w-[12vh] ' src="https://ieeeaccess.ieee.org/wp-content/uploads/2014/10/scopus-transparent.png" alt='' />
                 
-               <Image  className='rounded-3xl md:mx-7  w-[20vh] text-justify '  src={approved} alt="" />
-                <img  className='rounded-full w-[20vh]' src="https://imgs.search.brave.com/ILEEqeGjun7QFFTHzvFd0t5Qt-mifW3NmD0s3O4_Klw/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/YWFjLmFjLmlsL2xp/YnJhcnkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvd2Vi/X29mX3NjaWVuY2Vf/bG9nby5naWY.gif" alt='' />
+               <Image  className='rounded-3xl md:mx-7  md:w-[20vh] w-[10vh] text-justify '  src={approved} alt="" />
+                <img  className='rounded-full md:w-[20vh] w-[13vh]' src="https://imgs.search.brave.com/ILEEqeGjun7QFFTHzvFd0t5Qt-mifW3NmD0s3O4_Klw/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/YWFjLmFjLmlsL2xp/YnJhcnkvd3AtY29u/dGVudC91cGxvYWRz/L3NpdGVzLzMvd2Vi/X29mX3NjaWVuY2Vf/bG9nby5naWY.gif" alt='' />
 
                 </div>
                
