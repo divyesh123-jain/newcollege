@@ -48,8 +48,21 @@ Indian Institute of Technology,Roorkee</p>
 MS Ramaiah University of Applied Sciences
               </p>
           </div>
+
+          <div>
+              <div class="flex justify-center items-center  mb-4 w-400 h-400  rounded-full dark:bg-primary-900">
+              <img className='w-[28vh]' src='https://ee.iitdh.ac.in/oordupti/2022/05/Rpandya.webp' alt='' />
+              </div>
+              <h3 class="mb-2 text-xl font-bold dark:text-white">Dr.Rahul Jashvantbhai Pandya</h3>
+              <div class="border-b-4 border-indigo-500 ..."></div>
+              <p class="text-gray-500 dark:text-gray-400 text-xl">Professor
+<br />
+IIT Dharwad
+              </p>
+          </div>
       
          </div>
+
 
          
 
