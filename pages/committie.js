@@ -217,6 +217,7 @@ Dr. Sajal Das, Professor, Missouri University of Science and Technology, US<br /
 Dr. Amit Swamy, Emirates College of Technology, Abudhabi, UAE<br />
 Dr. D. P Agarwal, ex Chairman of the Union Public Service Commission of India<br />
 Dr. Ekant Sharma, Faculty, Dept of ECE, IIT Roorkee<br />
+Dr. Rahul Jashvantbhai Pandya, Faculty, Dept of EEE, IIT Dharwad<br />
 Dr. Swaminathan, Faculty, Dept of EEE, IIT Indore<br />
 Dr. G. S Mani, Ex Director, Defence Institute of Advanced Technology, Pune<br />
 Dr. Y. M. Jayaraj, The Chief Advisor to Hon’ble Chancellor<br />
@@ -230,6 +231,7 @@ Dr. K.N.B Murthy, Vice Chancellor, DSU<br />
 Dr. M. Ravishankar, Principal, DSATM<br />
 Dr. C.P.S Prakash, Former Principal, DSCE<br />
 Dr. A. R. Aswatha, Professor, Head, Dept of Medical Electronics, DSCE<br />
+
 
 
               </p>
